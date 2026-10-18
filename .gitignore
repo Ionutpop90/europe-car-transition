@@ -3,3 +3,5 @@ data/*.duckdb.wal
 __pycache__/
 .venv/
 .vercel
+
+.vercel
