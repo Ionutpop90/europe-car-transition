@@ -1,0 +1,10 @@
+param,low,high,swing
+petrol_l_100km,-28.0,28.0,56.0
+battery_kgco2_kwh,7.5,-7.5,15.0
+bev_kwh_100km,6.65,-6.65,13.3
+petrol_kgco2_l,-6.5,6.5,13.0
+lifetime_km,-7.5,4.5,12.0
+battery_kwh,3.75,-5.62,9.370000000000001
+grid,3.99,-3.99,7.98
+grid_loss_factor,0.75,-0.75,1.5
+car_build_tco2,0.0,0.0,0.0

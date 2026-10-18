@@ -1,0 +1,2157 @@
+geo,Year,Variable,Unit,Value
+AT,2015,Clean,%,77.03
+AT,2015,Fossil,%,22.97
+AT,2015,Gas and Other Fossil,%,18.19
+AT,2015,"Hydro, Bioenergy and Other Renewables",%,67.68
+AT,2015,Renewables,%,77.03
+AT,2015,Wind and Solar,%,9.35
+AT,2015,CO2 intensity,gCO2/kWh,172.06
+AT,2016,Clean,%,78.75
+AT,2016,Fossil,%,21.26
+AT,2016,Gas and Other Fossil,%,18.12
+AT,2016,"Hydro, Bioenergy and Other Renewables",%,68.99
+AT,2016,Renewables,%,78.75
+AT,2016,Wind and Solar,%,9.76
+AT,2016,CO2 intensity,gCO2/kWh,154.62
+AT,2017,Clean,%,76.08
+AT,2017,Fossil,%,23.9
+AT,2017,Gas and Other Fossil,%,21.28
+AT,2017,"Hydro, Bioenergy and Other Renewables",%,64.4
+AT,2017,Renewables,%,76.08
+AT,2017,Wind and Solar,%,11.68
+AT,2017,CO2 intensity,gCO2/kWh,162.92
+AT,2018,Clean,%,77.4
+AT,2018,Fossil,%,22.59
+AT,2018,Gas and Other Fossil,%,19.79
+AT,2018,"Hydro, Bioenergy and Other Renewables",%,65.82
+AT,2018,Renewables,%,77.4
+AT,2018,Wind and Solar,%,11.58
+AT,2018,CO2 intensity,gCO2/kWh,157.88
+AT,2019,Clean,%,77.29
+AT,2019,Fossil,%,22.7
+AT,2019,Gas and Other Fossil,%,20.58
+AT,2019,"Hydro, Bioenergy and Other Renewables",%,64.35
+AT,2019,Renewables,%,77.29
+AT,2019,Wind and Solar,%,12.94
+AT,2019,CO2 intensity,gCO2/kWh,152.78
+AT,2020,Clean,%,80.29
+AT,2020,Fossil,%,19.71
+AT,2020,Gas and Other Fossil,%,18.9
+AT,2020,"Hydro, Bioenergy and Other Renewables",%,67.49
+AT,2020,Renewables,%,80.29
+AT,2020,Wind and Solar,%,12.8
+AT,2020,CO2 intensity,gCO2/kWh,133.28
+AT,2021,Clean,%,79.12
+AT,2021,Fossil,%,20.88
+AT,2021,Gas and Other Fossil,%,20.88
+AT,2021,"Hydro, Bioenergy and Other Renewables",%,64.84
+AT,2021,Renewables,%,79.12
+AT,2021,Wind and Solar,%,14.28
+AT,2021,CO2 intensity,gCO2/kWh,135.29
+AT,2022,Clean,%,78.19
+AT,2022,Fossil,%,21.81
+AT,2022,Gas and Other Fossil,%,21.81
+AT,2022,"Hydro, Bioenergy and Other Renewables",%,61.08
+AT,2022,Renewables,%,78.19
+AT,2022,Wind and Solar,%,17.11
+AT,2022,CO2 intensity,gCO2/kWh,140.84
+AT,2023,Clean,%,84.76
+AT,2023,Fossil,%,15.25
+AT,2023,Gas and Other Fossil,%,15.25
+AT,2023,"Hydro, Bioenergy and Other Renewables",%,63.72
+AT,2023,Renewables,%,84.76
+AT,2023,Wind and Solar,%,21.04
+AT,2023,CO2 intensity,gCO2/kWh,111.72
+AT,2024,Clean,%,86.22
+AT,2024,Fossil,%,13.78
+AT,2024,Gas and Other Fossil,%,13.78
+AT,2024,"Hydro, Bioenergy and Other Renewables",%,64.2
+AT,2024,Renewables,%,86.22
+AT,2024,Wind and Solar,%,22.02
+AT,2024,CO2 intensity,gCO2/kWh,103.48
+AT,2025,Clean,%,83.53
+AT,2025,Fossil,%,16.47
+AT,2025,Gas and Other Fossil,%,16.47
+AT,2025,"Hydro, Bioenergy and Other Renewables",%,58.12
+AT,2025,Renewables,%,83.53
+AT,2025,Wind and Solar,%,25.41
+AT,2025,CO2 intensity,gCO2/kWh,117.22
+BE,2015,Clean,%,59.24
+BE,2015,Fossil,%,40.75
+BE,2015,Gas and Other Fossil,%,37.73
+BE,2015,"Hydro, Bioenergy and Other Renewables",%,8.49
+BE,2015,Renewables,%,21.1
+BE,2015,Wind and Solar,%,12.61
+BE,2015,CO2 intensity,gCO2/kWh,215.55
+BE,2016,Clean,%,68.53
+BE,2016,Fossil,%,31.48
+BE,2016,Gas and Other Fossil,%,31.02
+BE,2016,"Hydro, Bioenergy and Other Renewables",%,6.8
+BE,2016,Renewables,%,16.91
+BE,2016,Wind and Solar,%,10.11
+BE,2016,CO2 intensity,gCO2/kWh,158.7
+BE,2017,Clean,%,68.0
+BE,2017,Fossil,%,32.0
+BE,2017,Gas and Other Fossil,%,32.0
+BE,2017,"Hydro, Bioenergy and Other Renewables",%,7.0
+BE,2017,Renewables,%,18.52
+BE,2017,Wind and Solar,%,11.52
+BE,2017,CO2 intensity,gCO2/kWh,159.48
+BE,2018,Clean,%,61.95
+BE,2018,Fossil,%,38.06
+BE,2018,Gas and Other Fossil,%,38.06
+BE,2018,"Hydro, Bioenergy and Other Renewables",%,7.7
+BE,2018,Renewables,%,23.23
+BE,2018,Wind and Solar,%,15.53
+BE,2018,CO2 intensity,gCO2/kWh,186.95
+BE,2019,Clean,%,67.94
+BE,2019,Fossil,%,32.06
+BE,2019,Gas and Other Fossil,%,32.06
+BE,2019,"Hydro, Bioenergy and Other Renewables",%,5.88
+BE,2019,Renewables,%,20.99
+BE,2019,Wind and Solar,%,15.11
+BE,2019,CO2 intensity,gCO2/kWh,156.54
+BE,2020,Clean,%,65.57
+BE,2020,Fossil,%,34.44
+BE,2020,Gas and Other Fossil,%,34.44
+BE,2020,"Hydro, Bioenergy and Other Renewables",%,6.27
+BE,2020,Renewables,%,26.57
+BE,2020,Wind and Solar,%,20.3
+BE,2020,CO2 intensity,gCO2/kWh,166.61
+BE,2021,Clean,%,73.51
+BE,2021,Fossil,%,26.48
+BE,2021,Gas and Other Fossil,%,26.48
+BE,2021,"Hydro, Bioenergy and Other Renewables",%,5.16
+BE,2021,Renewables,%,22.88
+BE,2021,Wind and Solar,%,17.72
+BE,2021,CO2 intensity,gCO2/kWh,131.79
+BE,2022,Clean,%,72.42
+BE,2022,Fossil,%,27.58
+BE,2022,Gas and Other Fossil,%,27.58
+BE,2022,"Hydro, Bioenergy and Other Renewables",%,5.52
+BE,2022,Renewables,%,25.9
+BE,2022,Wind and Solar,%,20.38
+BE,2022,CO2 intensity,gCO2/kWh,139.4
+BE,2023,Clean,%,73.52
+BE,2023,Fossil,%,26.47
+BE,2023,Gas and Other Fossil,%,26.47
+BE,2023,"Hydro, Bioenergy and Other Renewables",%,5.1
+BE,2023,Renewables,%,33.43
+BE,2023,Wind and Solar,%,28.33
+BE,2023,CO2 intensity,gCO2/kWh,134.67
+BE,2024,Clean,%,76.29
+BE,2024,Fossil,%,23.72
+BE,2024,Gas and Other Fossil,%,23.72
+BE,2024,"Hydro, Bioenergy and Other Renewables",%,5.49
+BE,2024,Renewables,%,35.07
+BE,2024,Wind and Solar,%,29.58
+BE,2024,CO2 intensity,gCO2/kWh,127.28
+BE,2025,Clean,%,79.89
+BE,2025,Fossil,%,20.11
+BE,2025,Gas and Other Fossil,%,20.11
+BE,2025,"Hydro, Bioenergy and Other Renewables",%,8.18
+BE,2025,Renewables,%,43.84
+BE,2025,Wind and Solar,%,35.66
+BE,2025,CO2 intensity,gCO2/kWh,109.3
+BG,2015,Clean,%,49.53
+BG,2015,Fossil,%,50.46
+BG,2015,Gas and Other Fossil,%,4.21
+BG,2015,"Hydro, Bioenergy and Other Renewables",%,12.15
+BG,2015,Renewables,%,17.96
+BG,2015,Wind and Solar,%,5.81
+BG,2015,CO2 intensity,gCO2/kWh,494.56
+BG,2016,Clean,%,51.25
+BG,2016,Fossil,%,48.75
+BG,2016,Gas and Other Fossil,%,5.25
+BG,2016,"Hydro, Bioenergy and Other Renewables",%,9.5
+BG,2016,Renewables,%,15.81
+BG,2016,Wind and Solar,%,6.31
+BG,2016,CO2 intensity,gCO2/kWh,472.04
+BG,2017,Clean,%,48.35
+BG,2017,Fossil,%,51.64
+BG,2017,Gas and Other Fossil,%,4.99
+BG,2017,"Hydro, Bioenergy and Other Renewables",%,7.2
+BG,2017,Renewables,%,13.67
+BG,2017,Wind and Solar,%,6.47
+BG,2017,CO2 intensity,gCO2/kWh,502.9
+BG,2018,Clean,%,54.85
+BG,2018,Fossil,%,45.15
+BG,2018,Gas and Other Fossil,%,5.03
+BG,2018,"Hydro, Bioenergy and Other Renewables",%,14.45
+BG,2018,Renewables,%,20.17
+BG,2018,Wind and Solar,%,5.72
+BG,2018,CO2 intensity,gCO2/kWh,442.7
+BG,2019,Clean,%,55.01
+BG,2019,Fossil,%,44.99
+BG,2019,Gas and Other Fossil,%,5.65
+BG,2019,"Hydro, Bioenergy and Other Renewables",%,10.86
+BG,2019,Renewables,%,17.13
+BG,2019,Wind and Solar,%,6.27
+BG,2019,CO2 intensity,gCO2/kWh,438.7
+BG,2020,Clean,%,60.05
+BG,2020,Fossil,%,39.97
+BG,2020,Gas and Other Fossil,%,6.31
+BG,2020,"Hydro, Bioenergy and Other Renewables",%,11.27
+BG,2020,Renewables,%,18.62
+BG,2020,Wind and Solar,%,7.35
+BG,2020,CO2 intensity,gCO2/kWh,383.91
+BG,2021,Clean,%,56.75
+BG,2021,Fossil,%,43.24
+BG,2021,Gas and Other Fossil,%,7.05
+BG,2021,"Hydro, Bioenergy and Other Renewables",%,15.69
+BG,2021,Renewables,%,21.83
+BG,2021,Wind and Solar,%,6.14
+BG,2021,CO2 intensity,gCO2/kWh,415.29
+BG,2022,Clean,%,51.9
+BG,2022,Fossil,%,48.12
+BG,2022,Gas and Other Fossil,%,4.78
+BG,2022,"Hydro, Bioenergy and Other Renewables",%,12.02
+BG,2022,Renewables,%,19.16
+BG,2022,Wind and Solar,%,7.14
+BG,2022,CO2 intensity,gCO2/kWh,476.33
+BG,2023,Clean,%,65.39
+BG,2023,Fossil,%,34.61
+BG,2023,Gas and Other Fossil,%,5.34
+BG,2023,"Hydro, Bioenergy and Other Renewables",%,12.35
+BG,2023,Renewables,%,25.07
+BG,2023,Wind and Solar,%,12.72
+BG,2023,CO2 intensity,gCO2/kWh,338.32
+BG,2024,Clean,%,71.11
+BG,2024,Fossil,%,28.88
+BG,2024,Gas and Other Fossil,%,6.01
+BG,2024,"Hydro, Bioenergy and Other Renewables",%,11.77
+BG,2024,Renewables,%,29.91
+BG,2024,Wind and Solar,%,18.14
+BG,2024,CO2 intensity,gCO2/kWh,278.85
+BG,2025,Clean,%,71.93
+BG,2025,Fossil,%,28.06
+BG,2025,Gas and Other Fossil,%,5.55
+BG,2025,"Hydro, Bioenergy and Other Renewables",%,11.16
+BG,2025,Renewables,%,32.83
+BG,2025,Wind and Solar,%,21.67
+BG,2025,CO2 intensity,gCO2/kWh,275.41
+HR,2015,Clean,%,66.9
+HR,2015,Fossil,%,33.1
+HR,2015,Gas and Other Fossil,%,12.55
+HR,2015,"Hydro, Bioenergy and Other Renewables",%,59.25
+HR,2015,Renewables,%,66.9
+HR,2015,Wind and Solar,%,7.65
+HR,2015,CO2 intensity,gCO2/kWh,274.91
+HR,2016,Clean,%,66.36
+HR,2016,Fossil,%,33.65
+HR,2016,Gas and Other Fossil,%,13.02
+HR,2016,"Hydro, Bioenergy and Other Renewables",%,57.78
+HR,2016,Renewables,%,66.36
+HR,2016,Wind and Solar,%,8.58
+HR,2016,CO2 intensity,gCO2/kWh,275.4
+HR,2017,Clean,%,60.49
+HR,2017,Fossil,%,39.5
+HR,2017,Gas and Other Fossil,%,27.86
+HR,2017,"Hydro, Bioenergy and Other Renewables",%,49.61
+HR,2017,Renewables,%,60.49
+HR,2017,Wind and Solar,%,10.88
+HR,2017,CO2 intensity,gCO2/kWh,255.74
+HR,2018,Clean,%,72.34
+HR,2018,Fossil,%,27.66
+HR,2018,Gas and Other Fossil,%,16.94
+HR,2018,"Hydro, Bioenergy and Other Renewables",%,61.91
+HR,2018,Renewables,%,72.34
+HR,2018,Wind and Solar,%,10.43
+HR,2018,CO2 intensity,gCO2/kWh,201.18
+HR,2019,Clean,%,66.01
+HR,2019,Fossil,%,33.99
+HR,2019,Gas and Other Fossil,%,21.03
+HR,2019,"Hydro, Bioenergy and Other Renewables",%,53.76
+HR,2019,Renewables,%,66.01
+HR,2019,Wind and Solar,%,12.25
+HR,2019,CO2 intensity,gCO2/kWh,242.69
+HR,2020,Clean,%,64.63
+HR,2020,Fossil,%,35.37
+HR,2020,Gas and Other Fossil,%,26.15
+HR,2020,"Hydro, Bioenergy and Other Renewables",%,50.87
+HR,2020,Renewables,%,64.63
+HR,2020,Wind and Solar,%,13.76
+HR,2020,CO2 intensity,gCO2/kWh,226.76
+HR,2021,Clean,%,69.69
+HR,2021,Fossil,%,30.31
+HR,2021,Gas and Other Fossil,%,20.65
+HR,2021,"Hydro, Bioenergy and Other Renewables",%,55.07
+HR,2021,Renewables,%,69.69
+HR,2021,Wind and Solar,%,14.62
+HR,2021,CO2 intensity,gCO2/kWh,210.46
+HR,2022,Clean,%,63.47
+HR,2022,Fossil,%,36.52
+HR,2022,Gas and Other Fossil,%,25.46
+HR,2022,"Hydro, Bioenergy and Other Renewables",%,47.23
+HR,2022,Renewables,%,63.47
+HR,2022,Wind and Solar,%,16.24
+HR,2022,CO2 intensity,gCO2/kWh,244.68
+HR,2023,Clean,%,70.12
+HR,2023,Fossil,%,29.87
+HR,2023,Gas and Other Fossil,%,22.24
+HR,2023,"Hydro, Bioenergy and Other Renewables",%,52.92
+HR,2023,Renewables,%,70.12
+HR,2023,Wind and Solar,%,17.2
+HR,2023,CO2 intensity,gCO2/kWh,194.95
+HR,2024,Clean,%,73.45
+HR,2024,Fossil,%,26.56
+HR,2024,Gas and Other Fossil,%,21.33
+HR,2024,"Hydro, Bioenergy and Other Renewables",%,50.56
+HR,2024,Renewables,%,73.45
+HR,2024,Wind and Solar,%,22.89
+HR,2024,CO2 intensity,gCO2/kWh,170.7
+HR,2025,Clean,%,76.26
+HR,2025,Fossil,%,23.75
+HR,2025,Gas and Other Fossil,%,18.78
+HR,2025,"Hydro, Bioenergy and Other Renewables",%,46.12
+HR,2025,Renewables,%,76.26
+HR,2025,Wind and Solar,%,30.14
+HR,2025,CO2 intensity,gCO2/kWh,158.5
+CY,2015,Clean,%,8.81
+CY,2015,Fossil,%,91.19
+CY,2015,Gas and Other Fossil,%,91.19
+CY,2015,"Hydro, Bioenergy and Other Renewables",%,1.1
+CY,2015,Renewables,%,8.81
+CY,2015,Wind and Solar,%,7.71
+CY,2015,CO2 intensity,gCO2/kWh,603.52
+CY,2016,Clean,%,8.79
+CY,2016,Fossil,%,91.21
+CY,2016,Gas and Other Fossil,%,91.21
+CY,2016,"Hydro, Bioenergy and Other Renewables",%,1.02
+CY,2016,Renewables,%,8.79
+CY,2016,Wind and Solar,%,7.77
+CY,2016,CO2 intensity,gCO2/kWh,603.27
+CY,2017,Clean,%,8.6
+CY,2017,Fossil,%,91.4
+CY,2017,Gas and Other Fossil,%,91.4
+CY,2017,"Hydro, Bioenergy and Other Renewables",%,1.0
+CY,2017,Renewables,%,8.6
+CY,2017,Wind and Solar,%,7.6
+CY,2017,CO2 intensity,gCO2/kWh,606.0
+CY,2018,Clean,%,9.49
+CY,2018,Fossil,%,90.51
+CY,2018,Gas and Other Fossil,%,90.51
+CY,2018,"Hydro, Bioenergy and Other Renewables",%,1.19
+CY,2018,Renewables,%,9.49
+CY,2018,Wind and Solar,%,8.3
+CY,2018,CO2 intensity,gCO2/kWh,598.81
+CY,2019,Clean,%,10.1
+CY,2019,Fossil,%,89.9
+CY,2019,Gas and Other Fossil,%,89.9
+CY,2019,"Hydro, Bioenergy and Other Renewables",%,1.17
+CY,2019,Renewables,%,10.1
+CY,2019,Wind and Solar,%,8.93
+CY,2019,CO2 intensity,gCO2/kWh,596.12
+CY,2020,Clean,%,12.38
+CY,2020,Fossil,%,87.63
+CY,2020,Gas and Other Fossil,%,87.63
+CY,2020,"Hydro, Bioenergy and Other Renewables",%,1.24
+CY,2020,Renewables,%,12.38
+CY,2020,Wind and Solar,%,11.14
+CY,2020,CO2 intensity,gCO2/kWh,581.44
+CY,2021,Clean,%,15.23
+CY,2021,Fossil,%,84.77
+CY,2021,Gas and Other Fossil,%,84.77
+CY,2021,"Hydro, Bioenergy and Other Renewables",%,1.17
+CY,2021,Renewables,%,15.23
+CY,2021,Wind and Solar,%,14.06
+CY,2021,CO2 intensity,gCO2/kWh,564.45
+CY,2022,Clean,%,16.73
+CY,2022,Fossil,%,83.27
+CY,2022,Gas and Other Fossil,%,83.27
+CY,2022,"Hydro, Bioenergy and Other Renewables",%,1.14
+CY,2022,Renewables,%,16.73
+CY,2022,Wind and Solar,%,15.59
+CY,2022,CO2 intensity,gCO2/kWh,555.13
+CY,2023,Clean,%,20.45
+CY,2023,Fossil,%,79.55
+CY,2023,Gas and Other Fossil,%,79.55
+CY,2023,"Hydro, Bioenergy and Other Renewables",%,0.94
+CY,2023,Renewables,%,20.45
+CY,2023,Wind and Solar,%,19.51
+CY,2023,CO2 intensity,gCO2/kWh,532.83
+CY,2024,Clean,%,24.01
+CY,2024,Fossil,%,75.99
+CY,2024,Gas and Other Fossil,%,75.99
+CY,2024,"Hydro, Bioenergy and Other Renewables",%,1.04
+CY,2024,Renewables,%,24.01
+CY,2024,Wind and Solar,%,22.97
+CY,2024,CO2 intensity,gCO2/kWh,511.23
+CY,2025,Clean,%,27.75
+CY,2025,Fossil,%,72.25
+CY,2025,Gas and Other Fossil,%,72.25
+CY,2025,"Hydro, Bioenergy and Other Renewables",%,1.02
+CY,2025,Renewables,%,27.75
+CY,2025,Wind and Solar,%,26.73
+CY,2025,CO2 intensity,gCO2/kWh,489.0
+CZ,2015,Clean,%,43.95
+CZ,2015,Fossil,%,56.05
+CZ,2015,Gas and Other Fossil,%,6.18
+CZ,2015,"Hydro, Bioenergy and Other Renewables",%,7.98
+CZ,2015,Renewables,%,11.41
+CZ,2015,Wind and Solar,%,3.43
+CZ,2015,CO2 intensity,gCO2/kWh,553.16
+CZ,2016,Clean,%,40.84
+CZ,2016,Fossil,%,59.16
+CZ,2016,Gas and Other Fossil,%,7.98
+CZ,2016,"Hydro, Bioenergy and Other Renewables",%,8.24
+CZ,2016,Renewables,%,11.45
+CZ,2016,Wind and Solar,%,3.21
+CZ,2016,CO2 intensity,gCO2/kWh,573.9
+CZ,2017,Clean,%,44.29
+CZ,2017,Fossil,%,55.72
+CZ,2017,Gas and Other Fossil,%,7.4
+CZ,2017,"Hydro, Bioenergy and Other Renewables",%,7.98
+CZ,2017,Renewables,%,11.24
+CZ,2017,Wind and Solar,%,3.26
+CZ,2017,CO2 intensity,gCO2/kWh,542.33
+CZ,2018,Clean,%,45.31
+CZ,2018,Fossil,%,54.68
+CZ,2018,Gas and Other Fossil,%,7.24
+CZ,2018,"Hydro, Bioenergy and Other Renewables",%,7.44
+CZ,2018,Renewables,%,10.86
+CZ,2018,Wind and Solar,%,3.42
+CZ,2018,CO2 intensity,gCO2/kWh,532.59
+CZ,2019,Clean,%,47.03
+CZ,2019,Fossil,%,52.98
+CZ,2019,Gas and Other Fossil,%,9.43
+CZ,2019,"Hydro, Bioenergy and Other Renewables",%,8.21
+CZ,2019,Renewables,%,11.74
+CZ,2019,Wind and Solar,%,3.53
+CZ,2019,CO2 intensity,gCO2/kWh,503.5
+CZ,2020,Clean,%,50.4
+CZ,2020,Fossil,%,49.59
+CZ,2020,Gas and Other Fossil,%,10.89
+CZ,2020,"Hydro, Bioenergy and Other Renewables",%,9.17
+CZ,2020,Renewables,%,12.9
+CZ,2020,Wind and Solar,%,3.73
+CZ,2020,CO2 intensity,gCO2/kWh,460.18
+CZ,2021,Clean,%,49.45
+CZ,2021,Fossil,%,50.56
+CZ,2021,Gas and Other Fossil,%,9.7
+CZ,2021,"Hydro, Bioenergy and Other Renewables",%,9.31
+CZ,2021,Renewables,%,12.72
+CZ,2021,Wind and Solar,%,3.41
+CZ,2021,CO2 intensity,gCO2/kWh,471.79
+CZ,2022,Clean,%,49.91
+CZ,2022,Fossil,%,50.09
+CZ,2022,Gas and Other Fossil,%,6.04
+CZ,2022,"Hydro, Bioenergy and Other Renewables",%,8.96
+CZ,2022,Renewables,%,12.86
+CZ,2022,Wind and Solar,%,3.9
+CZ,2022,CO2 intensity,gCO2/kWh,488.36
+CZ,2023,Clean,%,54.81
+CZ,2023,Fossil,%,45.18
+CZ,2023,Gas and Other Fossil,%,5.68
+CZ,2023,"Hydro, Bioenergy and Other Renewables",%,9.96
+CZ,2023,Renewables,%,14.69
+CZ,2023,Wind and Solar,%,4.73
+CZ,2023,CO2 intensity,gCO2/kWh,442.61
+CZ,2024,Clean,%,57.68
+CZ,2024,Fossil,%,42.32
+CZ,2024,Gas and Other Fossil,%,5.9
+CZ,2024,"Hydro, Bioenergy and Other Renewables",%,11.04
+CZ,2024,Renewables,%,16.89
+CZ,2024,Wind and Solar,%,5.85
+CZ,2024,CO2 intensity,gCO2/kWh,414.23
+CZ,2025,Clean,%,59.13
+CZ,2025,Fossil,%,40.84
+CZ,2025,Gas and Other Fossil,%,5.61
+CZ,2025,"Hydro, Bioenergy and Other Renewables",%,10.27
+CZ,2025,Renewables,%,16.83
+CZ,2025,Wind and Solar,%,6.56
+CZ,2025,CO2 intensity,gCO2/kWh,401.46
+DK,2015,Clean,%,65.77
+DK,2015,Fossil,%,34.22
+DK,2015,Gas and Other Fossil,%,9.52
+DK,2015,"Hydro, Bioenergy and Other Renewables",%,14.59
+DK,2015,Renewables,%,65.77
+DK,2015,Wind and Solar,%,51.18
+DK,2015,CO2 intensity,gCO2/kWh,313.76
+DK,2016,Clean,%,60.49
+DK,2016,Fossil,%,39.5
+DK,2016,Gas and Other Fossil,%,10.32
+DK,2016,"Hydro, Bioenergy and Other Renewables",%,16.02
+DK,2016,Renewables,%,60.49
+DK,2016,Wind and Solar,%,44.47
+DK,2016,CO2 intensity,gCO2/kWh,360.86
+DK,2017,Clean,%,70.55
+DK,2017,Fossil,%,29.46
+DK,2017,Gas and Other Fossil,%,9.36
+DK,2017,"Hydro, Bioenergy and Other Renewables",%,20.29
+DK,2017,Renewables,%,70.55
+DK,2017,Wind and Solar,%,50.26
+DK,2017,CO2 intensity,gCO2/kWh,282.85
+DK,2018,Clean,%,68.68
+DK,2018,Fossil,%,31.31
+DK,2018,Gas and Other Fossil,%,9.56
+DK,2018,"Hydro, Bioenergy and Other Renewables",%,19.53
+DK,2018,Renewables,%,68.68
+DK,2018,Wind and Solar,%,49.15
+DK,2018,CO2 intensity,gCO2/kWh,296.92
+DK,2019,Clean,%,78.55
+DK,2019,Fossil,%,21.45
+DK,2019,Gas and Other Fossil,%,10.18
+DK,2019,"Hydro, Bioenergy and Other Renewables",%,20.29
+DK,2019,Renewables,%,78.55
+DK,2019,Wind and Solar,%,58.26
+DK,2019,CO2 intensity,gCO2/kWh,204.29
+DK,2020,Clean,%,82.05
+DK,2020,Fossil,%,17.95
+DK,2020,Gas and Other Fossil,%,7.24
+DK,2020,"Hydro, Bioenergy and Other Renewables",%,20.78
+DK,2020,Renewables,%,82.05
+DK,2020,Wind and Solar,%,61.27
+DK,2020,CO2 intensity,gCO2/kWh,188.94
+DK,2021,Clean,%,79.28
+DK,2021,Fossil,%,20.71
+DK,2021,Gas and Other Fossil,%,7.44
+DK,2021,"Hydro, Bioenergy and Other Renewables",%,26.55
+DK,2021,Renewables,%,79.28
+DK,2021,Wind and Solar,%,52.73
+DK,2021,CO2 intensity,gCO2/kWh,222.97
+DK,2022,Clean,%,80.87
+DK,2022,Fossil,%,19.14
+DK,2022,Gas and Other Fossil,%,6.54
+DK,2022,"Hydro, Bioenergy and Other Renewables",%,20.0
+DK,2022,Renewables,%,80.87
+DK,2022,Wind and Solar,%,60.87
+DK,2022,CO2 intensity,gCO2/kWh,203.64
+DK,2023,Clean,%,86.39
+DK,2023,Fossil,%,13.61
+DK,2023,Gas and Other Fossil,%,6.14
+DK,2023,"Hydro, Bioenergy and Other Renewables",%,18.38
+DK,2023,Renewables,%,86.39
+DK,2023,Wind and Solar,%,68.01
+DK,2023,CO2 intensity,gCO2/kWh,152.26
+DK,2024,Clean,%,89.25
+DK,2024,Fossil,%,10.75
+DK,2024,Gas and Other Fossil,%,5.79
+DK,2024,"Hydro, Bioenergy and Other Renewables",%,20.09
+DK,2024,Renewables,%,89.25
+DK,2024,Wind and Solar,%,69.16
+DK,2024,CO2 intensity,gCO2/kWh,131.92
+DK,2025,Clean,%,94.24
+DK,2025,Fossil,%,5.76
+DK,2025,Gas and Other Fossil,%,5.33
+DK,2025,"Hydro, Bioenergy and Other Renewables",%,22.16
+DK,2025,Renewables,%,94.24
+DK,2025,Wind and Solar,%,72.08
+DK,2025,CO2 intensity,gCO2/kWh,99.62
+EE,2015,Clean,%,15.38
+EE,2015,Fossil,%,84.63
+EE,2015,Gas and Other Fossil,%,84.63
+EE,2015,"Hydro, Bioenergy and Other Renewables",%,8.38
+EE,2015,Renewables,%,15.38
+EE,2015,Wind and Solar,%,7.0
+EE,2015,CO2 intensity,gCO2/kWh,573.4
+EE,2016,Clean,%,13.07
+EE,2016,Fossil,%,86.94
+EE,2016,Gas and Other Fossil,%,86.94
+EE,2016,"Hydro, Bioenergy and Other Renewables",%,8.14
+EE,2016,Renewables,%,13.07
+EE,2016,Wind and Solar,%,4.93
+EE,2016,CO2 intensity,gCO2/kWh,588.33
+EE,2017,Clean,%,14.14
+EE,2017,Fossil,%,85.87
+EE,2017,Gas and Other Fossil,%,85.72
+EE,2017,"Hydro, Bioenergy and Other Renewables",%,8.59
+EE,2017,Renewables,%,14.14
+EE,2017,Wind and Solar,%,5.55
+EE,2017,CO2 intensity,gCO2/kWh,582.83
+EE,2018,Clean,%,16.08
+EE,2018,Fossil,%,83.92
+EE,2018,Gas and Other Fossil,%,83.92
+EE,2018,"Hydro, Bioenergy and Other Renewables",%,10.67
+EE,2018,Renewables,%,16.08
+EE,2018,Wind and Solar,%,5.41
+EE,2018,CO2 intensity,gCO2/kWh,573.97
+EE,2019,Clean,%,28.12
+EE,2019,Fossil,%,71.88
+EE,2019,Gas and Other Fossil,%,71.88
+EE,2019,"Hydro, Bioenergy and Other Renewables",%,18.13
+EE,2019,Renewables,%,28.12
+EE,2019,Wind and Solar,%,9.99
+EE,2019,CO2 intensity,gCO2/kWh,509.86
+EE,2020,Clean,%,48.85
+EE,2020,Fossil,%,51.15
+EE,2020,Gas and Other Fossil,%,51.15
+EE,2020,"Hydro, Bioenergy and Other Renewables",%,30.92
+EE,2020,Renewables,%,48.85
+EE,2020,Wind and Solar,%,17.93
+EE,2020,CO2 intensity,gCO2/kWh,404.61
+EE,2021,Clean,%,39.92
+EE,2021,Fossil,%,60.09
+EE,2021,Gas and Other Fossil,%,60.09
+EE,2021,"Hydro, Bioenergy and Other Renewables",%,24.9
+EE,2021,Renewables,%,39.92
+EE,2021,Wind and Solar,%,15.02
+EE,2021,CO2 intensity,gCO2/kWh,450.63
+EE,2022,Clean,%,31.98
+EE,2022,Fossil,%,68.01
+EE,2022,Gas and Other Fossil,%,68.01
+EE,2022,"Hydro, Bioenergy and Other Renewables",%,17.78
+EE,2022,Renewables,%,31.98
+EE,2022,Wind and Solar,%,14.2
+EE,2022,CO2 intensity,gCO2/kWh,487.7
+EE,2023,Clean,%,48.78
+EE,2023,Fossil,%,51.22
+EE,2023,Gas and Other Fossil,%,51.22
+EE,2023,"Hydro, Bioenergy and Other Renewables",%,24.39
+EE,2023,Renewables,%,48.78
+EE,2023,Wind and Solar,%,24.39
+EE,2023,CO2 intensity,gCO2/kWh,395.47
+EE,2024,Clean,%,55.75
+EE,2024,Fossil,%,44.25
+EE,2024,Gas and Other Fossil,%,44.25
+EE,2024,"Hydro, Bioenergy and Other Renewables",%,21.89
+EE,2024,Renewables,%,55.75
+EE,2024,Wind and Solar,%,33.86
+EE,2024,CO2 intensity,gCO2/kWh,343.45
+EE,2025,Clean,%,60.26
+EE,2025,Fossil,%,39.74
+EE,2025,Gas and Other Fossil,%,39.74
+EE,2025,"Hydro, Bioenergy and Other Renewables",%,21.97
+EE,2025,Renewables,%,60.26
+EE,2025,Wind and Solar,%,38.29
+EE,2025,CO2 intensity,gCO2/kWh,316.64
+EU27,2015,Clean,%,57.23
+EU27,2015,Fossil,%,42.77
+EU27,2015,Gas and Other Fossil,%,18.21
+EU27,2015,"Hydro, Bioenergy and Other Renewables",%,17.16
+EU27,2015,Renewables,%,29.82
+EU27,2015,Wind and Solar,%,12.66
+EU27,2015,CO2 intensity,gCO2/kWh,348.33
+EU27,2016,Clean,%,56.7
+EU27,2016,Fossil,%,43.3
+EU27,2016,Gas and Other Fossil,%,20.5
+EU27,2016,"Hydro, Bioenergy and Other Renewables",%,17.43
+EU27,2016,Renewables,%,30.14
+EU27,2016,Wind and Solar,%,12.71
+EU27,2016,CO2 intensity,gCO2/kWh,341.43
+EU27,2017,Clean,%,55.9
+EU27,2017,Fossil,%,44.11
+EU27,2017,Gas and Other Fossil,%,22.25
+EU27,2017,"Hydro, Bioenergy and Other Renewables",%,15.58
+EU27,2017,Renewables,%,29.92
+EU27,2017,Wind and Solar,%,14.34
+EU27,2017,CO2 intensity,gCO2/kWh,340.41
+EU27,2018,Clean,%,58.56
+EU27,2018,Fossil,%,41.45
+EU27,2018,Gas and Other Fossil,%,20.97
+EU27,2018,"Hydro, Bioenergy and Other Renewables",%,17.41
+EU27,2018,Renewables,%,32.36
+EU27,2018,Wind and Solar,%,14.95
+EU27,2018,CO2 intensity,gCO2/kWh,321.26
+EU27,2019,Clean,%,60.68
+EU27,2019,Fossil,%,39.32
+EU27,2019,Gas and Other Fossil,%,23.64
+EU27,2019,"Hydro, Bioenergy and Other Renewables",%,16.94
+EU27,2019,Renewables,%,34.05
+EU27,2019,Wind and Solar,%,17.11
+EU27,2019,CO2 intensity,gCO2/kWh,287.35
+EU27,2020,Clean,%,63.33
+EU27,2020,Fossil,%,36.68
+EU27,2020,Gas and Other Fossil,%,23.88
+EU27,2020,"Hydro, Bioenergy and Other Renewables",%,18.78
+EU27,2020,Renewables,%,38.5
+EU27,2020,Wind and Solar,%,19.72
+EU27,2020,CO2 intensity,gCO2/kWh,261.18
+EU27,2021,Clean,%,62.9
+EU27,2021,Fossil,%,37.09
+EU27,2021,Gas and Other Fossil,%,22.52
+EU27,2021,"Hydro, Bioenergy and Other Renewables",%,18.32
+EU27,2021,Renewables,%,37.45
+EU27,2021,Wind and Solar,%,19.13
+EU27,2021,CO2 intensity,gCO2/kWh,272.52
+EU27,2022,Clean,%,60.82
+EU27,2022,Fossil,%,39.18
+EU27,2022,Gas and Other Fossil,%,23.03
+EU27,2022,"Hydro, Bioenergy and Other Renewables",%,16.14
+EU27,2022,Renewables,%,38.88
+EU27,2022,Wind and Solar,%,22.74
+EU27,2022,CO2 intensity,gCO2/kWh,291.57
+EU27,2023,Clean,%,68.1
+EU27,2023,Fossil,%,31.9
+EU27,2023,Gas and Other Fossil,%,20.14
+EU27,2023,"Hydro, Bioenergy and Other Renewables",%,18.23
+EU27,2023,Renewables,%,45.24
+EU27,2023,Wind and Solar,%,27.01
+EU27,2023,CO2 intensity,gCO2/kWh,236.0
+EU27,2024,Clean,%,71.44
+EU27,2024,Fossil,%,28.56
+EU27,2024,Gas and Other Fossil,%,18.76
+EU27,2024,"Hydro, Bioenergy and Other Renewables",%,19.23
+EU27,2024,Renewables,%,48.02
+EU27,2024,Wind and Solar,%,28.79
+EU27,2024,CO2 intensity,gCO2/kWh,211.52
+EU27,2025,Clean,%,71.25
+EU27,2025,Fossil,%,28.76
+EU27,2025,Gas and Other Fossil,%,19.56
+EU27,2025,"Hydro, Bioenergy and Other Renewables",%,17.6
+EU27,2025,Renewables,%,47.89
+EU27,2025,Wind and Solar,%,30.29
+EU27,2025,CO2 intensity,gCO2/kWh,209.21
+FI,2015,Clean,%,78.38
+FI,2015,Fossil,%,21.61
+FI,2015,Gas and Other Fossil,%,14.15
+FI,2015,"Hydro, Bioenergy and Other Renewables",%,41.08
+FI,2015,Renewables,%,44.49
+FI,2015,Wind and Solar,%,3.41
+FI,2015,CO2 intensity,gCO2/kWh,182.04
+FI,2016,Clean,%,77.99
+FI,2016,Fossil,%,22.02
+FI,2016,Gas and Other Fossil,%,11.88
+FI,2016,"Hydro, Bioenergy and Other Renewables",%,39.74
+FI,2016,Renewables,%,44.24
+FI,2016,Wind and Solar,%,4.5
+FI,2016,CO2 intensity,gCO2/kWh,199.56
+FI,2017,Clean,%,79.9
+FI,2017,Fossil,%,20.1
+FI,2017,Gas and Other Fossil,%,11.42
+FI,2017,"Hydro, Bioenergy and Other Renewables",%,39.45
+FI,2017,Renewables,%,46.61
+FI,2017,Wind and Solar,%,7.16
+FI,2017,CO2 intensity,gCO2/kWh,186.17
+FI,2018,Clean,%,78.22
+FI,2018,Fossil,%,21.78
+FI,2018,Gas and Other Fossil,%,13.54
+FI,2018,"Hydro, Bioenergy and Other Renewables",%,37.32
+FI,2018,Renewables,%,45.77
+FI,2018,Wind and Solar,%,8.45
+FI,2018,CO2 intensity,gCO2/kWh,193.37
+FI,2019,Clean,%,81.25
+FI,2019,Fossil,%,18.74
+FI,2019,Gas and Other Fossil,%,12.39
+FI,2019,"Hydro, Bioenergy and Other Renewables",%,37.47
+FI,2019,Renewables,%,46.46
+FI,2019,Wind and Solar,%,8.99
+FI,2019,CO2 intensity,gCO2/kWh,171.55
+FI,2020,Clean,%,85.53
+FI,2020,Fossil,%,14.46
+FI,2020,Gas and Other Fossil,%,10.94
+FI,2020,"Hydro, Bioenergy and Other Renewables",%,39.64
+FI,2020,Renewables,%,51.89
+FI,2020,Wind and Solar,%,12.25
+FI,2020,CO2 intensity,gCO2/kWh,130.27
+FI,2021,Clean,%,85.68
+FI,2021,Fossil,%,14.32
+FI,2021,Gas and Other Fossil,%,10.62
+FI,2021,"Hydro, Bioenergy and Other Renewables",%,40.73
+FI,2021,Renewables,%,52.95
+FI,2021,Wind and Solar,%,12.22
+FI,2021,CO2 intensity,gCO2/kWh,135.63
+FI,2022,Clean,%,88.68
+FI,2022,Fossil,%,11.32
+FI,2022,Gas and Other Fossil,%,6.55
+FI,2022,"Hydro, Bioenergy and Other Renewables",%,36.37
+FI,2022,Renewables,%,53.57
+FI,2022,Wind and Solar,%,17.2
+FI,2022,CO2 intensity,gCO2/kWh,129.97
+FI,2023,Clean,%,93.98
+FI,2023,Fossil,%,6.02
+FI,2023,Gas and Other Fossil,%,4.11
+FI,2023,"Hydro, Bioenergy and Other Renewables",%,32.56
+FI,2023,Renewables,%,51.89
+FI,2023,Wind and Solar,%,19.33
+FI,2023,CO2 intensity,gCO2/kWh,81.33
+FI,2024,Clean,%,95.35
+FI,2024,Fossil,%,4.65
+FI,2024,Gas and Other Fossil,%,3.64
+FI,2024,"Hydro, Bioenergy and Other Renewables",%,29.91
+FI,2024,Renewables,%,55.86
+FI,2024,Wind and Solar,%,25.95
+FI,2024,CO2 intensity,gCO2/kWh,66.75
+FI,2025,Clean,%,96.35
+FI,2025,Fossil,%,3.65
+FI,2025,Gas and Other Fossil,%,3.46
+FI,2025,"Hydro, Bioenergy and Other Renewables",%,27.84
+FI,2025,Renewables,%,56.47
+FI,2025,Wind and Solar,%,28.63
+FI,2025,CO2 intensity,gCO2/kWh,57.47
+FR,2015,Clean,%,92.19
+FR,2015,Fossil,%,7.81
+FR,2015,Gas and Other Fossil,%,5.74
+FR,2015,"Hydro, Bioenergy and Other Renewables",%,10.92
+FR,2015,Renewables,%,16.0
+FR,2015,Wind and Solar,%,5.08
+FR,2015,CO2 intensity,gCO2/kWh,59.18
+FR,2016,Clean,%,89.88
+FR,2016,Fossil,%,10.14
+FR,2016,Gas and Other Fossil,%,8.31
+FR,2016,"Hydro, Bioenergy and Other Renewables",%,12.35
+FR,2016,Renewables,%,17.73
+FR,2016,Wind and Solar,%,5.38
+FR,2016,CO2 intensity,gCO2/kWh,68.62
+FR,2017,Clean,%,88.23
+FR,2017,Fossil,%,11.79
+FR,2017,Gas and Other Fossil,%,9.48
+FR,2017,"Hydro, Bioenergy and Other Renewables",%,10.52
+FR,2017,Renewables,%,16.55
+FR,2017,Wind and Solar,%,6.03
+FR,2017,CO2 intensity,gCO2/kWh,78.31
+FR,2018,Clean,%,91.41
+FR,2018,Fossil,%,8.58
+FR,2018,Gas and Other Fossil,%,7.14
+FR,2018,"Hydro, Bioenergy and Other Renewables",%,12.86
+FR,2018,Renewables,%,19.75
+FR,2018,Wind and Solar,%,6.89
+FR,2018,CO2 intensity,gCO2/kWh,59.92
+FR,2019,Clean,%,90.53
+FR,2019,Fossil,%,9.48
+FR,2019,Gas and Other Fossil,%,8.84
+FR,2019,"Hydro, Bioenergy and Other Renewables",%,11.7
+FR,2019,Renewables,%,19.97
+FR,2019,Wind and Solar,%,8.27
+FR,2019,CO2 intensity,gCO2/kWh,59.79
+FR,2020,Clean,%,90.83
+FR,2020,Fossil,%,9.19
+FR,2020,Gas and Other Fossil,%,8.6
+FR,2020,"Hydro, Bioenergy and Other Renewables",%,13.64
+FR,2020,Renewables,%,23.72
+FR,2020,Wind and Solar,%,10.08
+FR,2020,CO2 intensity,gCO2/kWh,59.08
+FR,2021,Clean,%,91.14
+FR,2021,Fossil,%,8.88
+FR,2021,Gas and Other Fossil,%,7.89
+FR,2021,"Hydro, Bioenergy and Other Renewables",%,12.67
+FR,2021,Renewables,%,22.2
+FR,2021,Wind and Solar,%,9.53
+FR,2021,CO2 intensity,gCO2/kWh,59.8
+FR,2022,Clean,%,87.12
+FR,2022,Fossil,%,12.89
+FR,2022,Gas and Other Fossil,%,12.0
+FR,2022,"Hydro, Bioenergy and Other Renewables",%,11.9
+FR,2022,Renewables,%,24.19
+FR,2022,Wind and Solar,%,12.29
+FR,2022,CO2 intensity,gCO2/kWh,78.55
+FR,2023,Clean,%,92.09
+FR,2023,Fossil,%,7.92
+FR,2023,Gas and Other Fossil,%,7.61
+FR,2023,"Hydro, Bioenergy and Other Renewables",%,12.81
+FR,2023,Renewables,%,26.89
+FR,2023,Wind and Solar,%,14.08
+FR,2023,CO2 intensity,gCO2/kWh,53.26
+FR,2024,Clean,%,94.9
+FR,2024,Fossil,%,5.1
+FR,2024,Gas and Other Fossil,%,4.92
+FR,2024,"Hydro, Bioenergy and Other Renewables",%,14.66
+FR,2024,Renewables,%,27.2
+FR,2024,Wind and Solar,%,12.54
+FR,2024,CO2 intensity,gCO2/kWh,40.49
+FR,2025,Clean,%,94.85
+FR,2025,Fossil,%,5.16
+FR,2025,Gas and Other Fossil,%,4.85
+FR,2025,"Hydro, Bioenergy and Other Renewables",%,12.32
+FR,2025,Renewables,%,26.08
+FR,2025,Wind and Solar,%,13.76
+FR,2025,CO2 intensity,gCO2/kWh,41.45
+DE,2015,Clean,%,43.79
+DE,2015,Fossil,%,56.21
+DE,2015,Gas and Other Fossil,%,13.62
+DE,2015,"Hydro, Bioenergy and Other Renewables",%,10.86
+DE,2015,Renewables,%,29.43
+DE,2015,Wind and Solar,%,18.57
+DE,2015,CO2 intensity,gCO2/kWh,503.59
+DE,2016,Clean,%,42.67
+DE,2016,Fossil,%,57.33
+DE,2016,Gas and Other Fossil,%,16.53
+DE,2016,"Hydro, Bioenergy and Other Renewables",%,11.17
+DE,2016,Renewables,%,29.48
+DE,2016,Wind and Solar,%,18.31
+DE,2016,CO2 intensity,gCO2/kWh,498.3
+DE,2017,Clean,%,45.3
+DE,2017,Fossil,%,54.69
+DE,2017,Gas and Other Fossil,%,17.25
+DE,2017,"Hydro, Bioenergy and Other Renewables",%,11.05
+DE,2017,Renewables,%,33.46
+DE,2017,Wind and Solar,%,22.41
+DE,2017,CO2 intensity,gCO2/kWh,469.71
+DE,2018,Clean,%,47.28
+DE,2018,Fossil,%,52.73
+DE,2018,Gas and Other Fossil,%,16.64
+DE,2018,"Hydro, Bioenergy and Other Renewables",%,10.86
+DE,2018,Renewables,%,35.26
+DE,2018,Wind and Solar,%,24.4
+DE,2018,CO2 intensity,gCO2/kWh,454.55
+DE,2019,Clean,%,52.7
+DE,2019,Fossil,%,47.3
+DE,2019,Gas and Other Fossil,%,18.73
+DE,2019,"Hydro, Bioenergy and Other Renewables",%,11.67
+DE,2019,Renewables,%,40.19
+DE,2019,Wind and Solar,%,28.52
+DE,2019,CO2 intensity,gCO2/kWh,392.51
+DE,2020,Clean,%,55.73
+DE,2020,Fossil,%,44.26
+DE,2020,Gas and Other Fossil,%,20.51
+DE,2020,"Hydro, Bioenergy and Other Renewables",%,12.33
+DE,2020,Renewables,%,44.37
+DE,2020,Wind and Solar,%,32.04
+DE,2020,CO2 intensity,gCO2/kWh,355.61
+DE,2021,Clean,%,52.1
+DE,2021,Fossil,%,47.89
+DE,2021,Gas and Other Fossil,%,19.44
+DE,2021,"Hydro, Bioenergy and Other Renewables",%,11.92
+DE,2021,Renewables,%,40.16
+DE,2021,Wind and Solar,%,28.24
+DE,2021,CO2 intensity,gCO2/kWh,394.64
+DE,2022,Clean,%,50.5
+DE,2022,Fossil,%,49.5
+DE,2022,Gas and Other Fossil,%,17.76
+DE,2022,"Hydro, Bioenergy and Other Renewables",%,11.72
+DE,2022,Renewables,%,44.38
+DE,2022,Wind and Solar,%,32.66
+DE,2022,CO2 intensity,gCO2/kWh,419.74
+DE,2023,Clean,%,56.11
+DE,2023,Fossil,%,43.9
+DE,2023,Gas and Other Fossil,%,19.27
+DE,2023,"Hydro, Bioenergy and Other Renewables",%,14.35
+DE,2023,Renewables,%,54.69
+DE,2023,Wind and Solar,%,40.34
+DE,2023,CO2 intensity,gCO2/kWh,363.59
+DE,2024,Clean,%,58.64
+DE,2024,Fossil,%,41.36
+DE,2024,Gas and Other Fossil,%,19.92
+DE,2024,"Hydro, Bioenergy and Other Renewables",%,15.14
+DE,2024,Renewables,%,58.64
+DE,2024,Wind and Solar,%,43.5
+DE,2024,CO2 intensity,gCO2/kWh,337.12
+DE,2025,Clean,%,59.1
+DE,2025,Fossil,%,40.91
+DE,2025,Gas and Other Fossil,%,20.3
+DE,2025,"Hydro, Bioenergy and Other Renewables",%,14.01
+DE,2025,Renewables,%,59.1
+DE,2025,Wind and Solar,%,45.09
+DE,2025,CO2 intensity,gCO2/kWh,329.65
+EL,2015,Clean,%,29.09
+EL,2015,Fossil,%,70.91
+EL,2015,Gas and Other Fossil,%,27.6
+EL,2015,"Hydro, Bioenergy and Other Renewables",%,12.4
+EL,2015,Renewables,%,29.09
+EL,2015,Wind and Solar,%,16.69
+EL,2015,CO2 intensity,gCO2/kWh,603.53
+EL,2016,Clean,%,27.66
+EL,2016,Fossil,%,72.34
+EL,2016,Gas and Other Fossil,%,37.27
+EL,2016,"Hydro, Bioenergy and Other Renewables",%,10.79
+EL,2016,Renewables,%,27.66
+EL,2016,Wind and Solar,%,16.87
+EL,2016,CO2 intensity,gCO2/kWh,571.51
+EL,2017,Clean,%,25.19
+EL,2017,Fossil,%,74.81
+EL,2017,Gas and Other Fossil,%,40.58
+EL,2017,"Hydro, Bioenergy and Other Renewables",%,7.8
+EL,2017,Renewables,%,25.19
+EL,2017,Wind and Solar,%,17.39
+EL,2017,CO2 intensity,gCO2/kWh,579.75
+EL,2018,Clean,%,30.67
+EL,2018,Fossil,%,69.32
+EL,2018,Gas and Other Fossil,%,36.65
+EL,2018,"Hydro, Bioenergy and Other Renewables",%,11.5
+EL,2018,Renewables,%,30.67
+EL,2018,Wind and Solar,%,19.17
+EL,2018,CO2 intensity,gCO2/kWh,545.14
+EL,2019,Clean,%,33.57
+EL,2019,Fossil,%,66.43
+EL,2019,Gas and Other Fossil,%,41.15
+EL,2019,"Hydro, Bioenergy and Other Renewables",%,9.17
+EL,2019,Renewables,%,33.57
+EL,2019,Wind and Solar,%,24.4
+EL,2019,CO2 intensity,gCO2/kWh,496.98
+EL,2020,Clean,%,36.95
+EL,2020,Fossil,%,63.06
+EL,2020,Gas and Other Fossil,%,49.15
+EL,2020,"Hydro, Bioenergy and Other Renewables",%,7.98
+EL,2020,Renewables,%,36.95
+EL,2020,Wind and Solar,%,28.97
+EL,2020,CO2 intensity,gCO2/kWh,423.07
+EL,2021,Clean,%,40.8
+EL,2021,Fossil,%,59.2
+EL,2021,Gas and Other Fossil,%,49.39
+EL,2021,"Hydro, Bioenergy and Other Renewables",%,11.8
+EL,2021,Renewables,%,40.8
+EL,2021,Wind and Solar,%,29.0
+EL,2021,CO2 intensity,gCO2/kWh,383.11
+EL,2022,Clean,%,43.45
+EL,2022,Fossil,%,56.55
+EL,2022,Gas and Other Fossil,%,45.4
+EL,2022,"Hydro, Bioenergy and Other Renewables",%,8.57
+EL,2022,Renewables,%,43.45
+EL,2022,Wind and Solar,%,34.88
+EL,2022,CO2 intensity,gCO2/kWh,376.81
+EL,2023,Clean,%,49.83
+EL,2023,Fossil,%,50.17
+EL,2023,Gas and Other Fossil,%,40.79
+EL,2023,"Hydro, Bioenergy and Other Renewables",%,9.14
+EL,2023,Renewables,%,49.83
+EL,2023,Wind and Solar,%,40.69
+EL,2023,CO2 intensity,gCO2/kWh,336.6
+EL,2024,Clean,%,49.23
+EL,2024,Fossil,%,50.77
+EL,2024,Gas and Other Fossil,%,45.04
+EL,2024,"Hydro, Bioenergy and Other Renewables",%,7.51
+EL,2024,Renewables,%,49.23
+EL,2024,Wind and Solar,%,41.72
+EL,2024,CO2 intensity,gCO2/kWh,321.83
+EL,2025,Clean,%,47.78
+EL,2025,Fossil,%,52.23
+EL,2025,Gas and Other Fossil,%,47.5
+EL,2025,"Hydro, Bioenergy and Other Renewables",%,7.13
+EL,2025,Renewables,%,47.78
+EL,2025,Wind and Solar,%,40.65
+EL,2025,CO2 intensity,gCO2/kWh,324.41
+HU,2015,Clean,%,62.8
+HU,2015,Fossil,%,37.19
+HU,2015,Gas and Other Fossil,%,18.1
+HU,2015,"Hydro, Bioenergy and Other Renewables",%,7.88
+HU,2015,Renewables,%,10.61
+HU,2015,Wind and Solar,%,2.73
+HU,2015,CO2 intensity,gCO2/kWh,299.04
+HU,2016,Clean,%,60.54
+HU,2016,Fossil,%,39.46
+HU,2016,Gas and Other Fossil,%,21.8
+HU,2016,"Hydro, Bioenergy and Other Renewables",%,7.31
+HU,2016,Renewables,%,10.19
+HU,2016,Wind and Solar,%,2.88
+HU,2016,CO2 intensity,gCO2/kWh,300.19
+HU,2017,Clean,%,59.48
+HU,2017,Fossil,%,40.53
+HU,2017,Gas and Other Fossil,%,25.55
+HU,2017,"Hydro, Bioenergy and Other Renewables",%,7.2
+HU,2017,Renewables,%,10.57
+HU,2017,Wind and Solar,%,3.37
+HU,2017,CO2 intensity,gCO2/kWh,290.71
+HU,2018,Clean,%,60.85
+HU,2018,Fossil,%,39.15
+HU,2018,Gas and Other Fossil,%,24.58
+HU,2018,"Hydro, Bioenergy and Other Renewables",%,7.9
+HU,2018,Renewables,%,11.77
+HU,2018,Wind and Solar,%,3.87
+HU,2018,CO2 intensity,gCO2/kWh,284.56
+HU,2019,Clean,%,61.24
+HU,2019,Fossil,%,38.77
+HU,2019,Gas and Other Fossil,%,27.01
+HU,2019,"Hydro, Bioenergy and Other Renewables",%,7.21
+HU,2019,Renewables,%,13.72
+HU,2019,Wind and Solar,%,6.51
+HU,2019,CO2 intensity,gCO2/kWh,266.04
+HU,2020,Clean,%,61.8
+HU,2020,Fossil,%,38.2
+HU,2020,Gas and Other Fossil,%,27.58
+HU,2020,"Hydro, Bioenergy and Other Renewables",%,6.91
+HU,2020,Renewables,%,15.81
+HU,2020,Wind and Solar,%,8.9
+HU,2020,CO2 intensity,gCO2/kWh,257.45
+HU,2021,Clean,%,63.44
+HU,2021,Fossil,%,36.57
+HU,2021,Gas and Other Fossil,%,28.23
+HU,2021,"Hydro, Bioenergy and Other Renewables",%,6.79
+HU,2021,Renewables,%,19.15
+HU,2021,Wind and Solar,%,12.36
+HU,2021,CO2 intensity,gCO2/kWh,238.5
+HU,2022,Clean,%,65.59
+HU,2022,Fossil,%,34.41
+HU,2022,Gas and Other Fossil,%,26.05
+HU,2022,"Hydro, Bioenergy and Other Renewables",%,6.48
+HU,2022,Renewables,%,21.4
+HU,2022,Wind and Solar,%,14.92
+HU,2022,CO2 intensity,gCO2/kWh,228.9
+HU,2023,Clean,%,71.19
+HU,2023,Fossil,%,28.81
+HU,2023,Gas and Other Fossil,%,21.8
+HU,2023,"Hydro, Bioenergy and Other Renewables",%,5.07
+HU,2023,Renewables,%,26.4
+HU,2023,Wind and Solar,%,21.33
+HU,2023,CO2 intensity,gCO2/kWh,196.12
+HU,2024,Clean,%,73.65
+HU,2024,Fossil,%,26.36
+HU,2024,Gas and Other Fossil,%,19.94
+HU,2024,"Hydro, Bioenergy and Other Renewables",%,5.46
+HU,2024,Renewables,%,31.49
+HU,2024,Wind and Solar,%,26.03
+HU,2024,CO2 intensity,gCO2/kWh,184.47
+HU,2025,Clean,%,75.32
+HU,2025,Fossil,%,24.67
+HU,2025,Gas and Other Fossil,%,21.24
+HU,2025,"Hydro, Bioenergy and Other Renewables",%,6.53
+HU,2025,Renewables,%,35.31
+HU,2025,Wind and Solar,%,28.78
+HU,2025,CO2 intensity,gCO2/kWh,163.02
+IE,2015,Clean,%,28.32
+IE,2015,Fossil,%,71.68
+IE,2015,Gas and Other Fossil,%,54.38
+IE,2015,"Hydro, Bioenergy and Other Renewables",%,4.59
+IE,2015,Renewables,%,28.32
+IE,2015,Wind and Solar,%,23.73
+IE,2015,CO2 intensity,gCO2/kWh,439.79
+IE,2016,Clean,%,25.11
+IE,2016,Fossil,%,74.88
+IE,2016,Gas and Other Fossil,%,59.37
+IE,2016,"Hydro, Bioenergy and Other Renewables",%,4.48
+IE,2016,Renewables,%,25.11
+IE,2016,Wind and Solar,%,20.63
+IE,2016,CO2 intensity,gCO2/kWh,442.9
+IE,2017,Clean,%,29.26
+IE,2017,Fossil,%,70.74
+IE,2017,Gas and Other Fossil,%,58.92
+IE,2017,"Hydro, Bioenergy and Other Renewables",%,4.64
+IE,2017,Renewables,%,29.26
+IE,2017,Wind and Solar,%,24.62
+IE,2017,CO2 intensity,gCO2/kWh,404.03
+IE,2018,Clean,%,33.31
+IE,2018,Fossil,%,66.69
+IE,2018,Gas and Other Fossil,%,59.76
+IE,2018,"Hydro, Bioenergy and Other Renewables",%,4.96
+IE,2018,Renewables,%,33.31
+IE,2018,Wind and Solar,%,28.35
+IE,2018,CO2 intensity,gCO2/kWh,362.44
+IE,2019,Clean,%,38.71
+IE,2019,Fossil,%,61.29
+IE,2019,Gas and Other Fossil,%,59.64
+IE,2019,"Hydro, Bioenergy and Other Renewables",%,5.63
+IE,2019,Renewables,%,38.71
+IE,2019,Wind and Solar,%,33.08
+IE,2019,CO2 intensity,gCO2/kWh,311.95
+IE,2020,Clean,%,42.44
+IE,2020,Fossil,%,57.56
+IE,2020,Gas and Other Fossil,%,55.48
+IE,2020,"Hydro, Bioenergy and Other Renewables",%,5.75
+IE,2020,Renewables,%,42.44
+IE,2020,Wind and Solar,%,36.69
+IE,2020,CO2 intensity,gCO2/kWh,291.05
+IE,2021,Clean,%,37.05
+IE,2021,Fossil,%,62.95
+IE,2021,Gas and Other Fossil,%,54.38
+IE,2021,"Hydro, Bioenergy and Other Renewables",%,5.48
+IE,2021,Renewables,%,37.05
+IE,2021,Wind and Solar,%,31.57
+IE,2021,CO2 intensity,gCO2/kWh,351.92
+IE,2022,Clean,%,39.21
+IE,2022,Fossil,%,60.78
+IE,2022,Gas and Other Fossil,%,53.77
+IE,2022,"Hydro, Bioenergy and Other Renewables",%,5.06
+IE,2022,Renewables,%,39.21
+IE,2022,Wind and Solar,%,34.15
+IE,2022,CO2 intensity,gCO2/kWh,331.16
+IE,2023,Clean,%,45.27
+IE,2023,Fossil,%,54.73
+IE,2023,Gas and Other Fossil,%,50.89
+IE,2023,"Hydro, Bioenergy and Other Renewables",%,5.61
+IE,2023,Renewables,%,45.27
+IE,2023,Wind and Solar,%,39.66
+IE,2023,CO2 intensity,gCO2/kWh,282.5
+IE,2024,Clean,%,46.53
+IE,2024,Fossil,%,53.47
+IE,2024,Gas and Other Fossil,%,51.44
+IE,2024,"Hydro, Bioenergy and Other Renewables",%,5.7
+IE,2024,Renewables,%,46.53
+IE,2024,Wind and Solar,%,40.83
+IE,2024,CO2 intensity,gCO2/kWh,270.91
+IE,2025,Clean,%,48.21
+IE,2025,Fossil,%,51.79
+IE,2025,Gas and Other Fossil,%,51.4
+IE,2025,"Hydro, Bioenergy and Other Renewables",%,5.4
+IE,2025,Renewables,%,48.21
+IE,2025,Wind and Solar,%,42.81
+IE,2025,CO2 intensity,gCO2/kWh,255.9
+IT,2015,Clean,%,38.93
+IT,2015,Fossil,%,61.07
+IT,2015,Gas and Other Fossil,%,45.62
+IT,2015,"Hydro, Bioenergy and Other Renewables",%,25.42
+IT,2015,Renewables,%,38.93
+IT,2015,Wind and Solar,%,13.51
+IT,2015,CO2 intensity,gCO2/kWh,398.68
+IT,2016,Clean,%,37.78
+IT,2016,Fossil,%,62.22
+IT,2016,Gas and Other Fossil,%,49.77
+IT,2016,"Hydro, Bioenergy and Other Renewables",%,23.86
+IT,2016,Renewables,%,37.78
+IT,2016,Wind and Solar,%,13.92
+IT,2016,CO2 intensity,gCO2/kWh,389.58
+IT,2017,Clean,%,35.56
+IT,2017,Fossil,%,64.43
+IT,2017,Gas and Other Fossil,%,53.26
+IT,2017,"Hydro, Bioenergy and Other Renewables",%,21.14
+IT,2017,Renewables,%,35.56
+IT,2017,Wind and Solar,%,14.42
+IT,2017,CO2 intensity,gCO2/kWh,392.82
+IT,2018,Clean,%,40.0
+IT,2018,Fossil,%,60.0
+IT,2018,Gas and Other Fossil,%,50.05
+IT,2018,"Hydro, Bioenergy and Other Renewables",%,25.89
+IT,2018,Renewables,%,40.0
+IT,2018,Wind and Solar,%,14.11
+IT,2018,CO2 intensity,gCO2/kWh,366.88
+IT,2019,Clean,%,39.94
+IT,2019,Fossil,%,60.06
+IT,2019,Gas and Other Fossil,%,53.56
+IT,2019,"Hydro, Bioenergy and Other Renewables",%,24.8
+IT,2019,Renewables,%,39.94
+IT,2019,Wind and Solar,%,15.14
+IT,2019,CO2 intensity,gCO2/kWh,351.32
+IT,2020,Clean,%,42.24
+IT,2020,Fossil,%,57.76
+IT,2020,Gas and Other Fossil,%,52.93
+IT,2020,"Hydro, Bioenergy and Other Renewables",%,26.45
+IT,2020,Renewables,%,42.24
+IT,2020,Wind and Solar,%,15.79
+IT,2020,CO2 intensity,gCO2/kWh,334.2
+IT,2021,Clean,%,40.75
+IT,2021,Fossil,%,59.25
+IT,2021,Gas and Other Fossil,%,54.34
+IT,2021,"Hydro, Bioenergy and Other Renewables",%,24.65
+IT,2021,Renewables,%,40.75
+IT,2021,Wind and Solar,%,16.1
+IT,2021,CO2 intensity,gCO2/kWh,339.1
+IT,2022,Clean,%,35.86
+IT,2022,Fossil,%,64.14
+IT,2022,Gas and Other Fossil,%,56.07
+IT,2022,"Hydro, Bioenergy and Other Renewables",%,18.51
+IT,2022,Renewables,%,35.86
+IT,2022,Wind and Solar,%,17.35
+IT,2022,CO2 intensity,gCO2/kWh,377.84
+IT,2023,Clean,%,44.55
+IT,2023,Fossil,%,55.45
+IT,2023,Gas and Other Fossil,%,50.4
+IT,2023,"Hydro, Bioenergy and Other Renewables",%,23.79
+IT,2023,Renewables,%,44.55
+IT,2023,Wind and Solar,%,20.76
+IT,2023,CO2 intensity,gCO2/kWh,323.3
+IT,2024,Clean,%,50.17
+IT,2024,Fossil,%,49.83
+IT,2024,Gas and Other Fossil,%,48.35
+IT,2024,"Hydro, Bioenergy and Other Renewables",%,28.42
+IT,2024,Renewables,%,50.17
+IT,2024,Wind and Solar,%,21.75
+IT,2024,CO2 intensity,gCO2/kWh,281.43
+IT,2025,Clean,%,48.74
+IT,2025,Fossil,%,51.27
+IT,2025,Gas and Other Fossil,%,49.92
+IT,2025,"Hydro, Bioenergy and Other Renewables",%,23.78
+IT,2025,Renewables,%,48.74
+IT,2025,Wind and Solar,%,24.96
+IT,2025,CO2 intensity,gCO2/kWh,284.63
+LV,2015,Clean,%,50.18
+LV,2015,Fossil,%,49.82
+LV,2015,Gas and Other Fossil,%,49.82
+LV,2015,"Hydro, Bioenergy and Other Renewables",%,47.47
+LV,2015,Renewables,%,50.18
+LV,2015,Wind and Solar,%,2.71
+LV,2015,CO2 intensity,gCO2/kWh,220.22
+LV,2016,Clean,%,54.2
+LV,2016,Fossil,%,45.79
+LV,2016,Gas and Other Fossil,%,45.79
+LV,2016,"Hydro, Bioenergy and Other Renewables",%,52.18
+LV,2016,Renewables,%,54.2
+LV,2016,Wind and Solar,%,2.02
+LV,2016,CO2 intensity,gCO2/kWh,204.05
+LV,2017,Clean,%,72.51
+LV,2017,Fossil,%,27.49
+LV,2017,Gas and Other Fossil,%,27.49
+LV,2017,"Hydro, Bioenergy and Other Renewables",%,70.52
+LV,2017,Renewables,%,72.51
+LV,2017,Wind and Solar,%,1.99
+LV,2017,CO2 intensity,gCO2/kWh,140.77
+LV,2018,Clean,%,51.94
+LV,2018,Fossil,%,48.07
+LV,2018,Gas and Other Fossil,%,48.07
+LV,2018,"Hydro, Bioenergy and Other Renewables",%,50.15
+LV,2018,Renewables,%,51.94
+LV,2018,Wind and Solar,%,1.79
+LV,2018,CO2 intensity,gCO2/kWh,215.77
+LV,2019,Clean,%,49.53
+LV,2019,Fossil,%,50.47
+LV,2019,Gas and Other Fossil,%,50.47
+LV,2019,"Hydro, Bioenergy and Other Renewables",%,47.2
+LV,2019,Renewables,%,49.53
+LV,2019,Wind and Solar,%,2.33
+LV,2019,CO2 intensity,gCO2/kWh,223.6
+LV,2020,Clean,%,63.63
+LV,2020,Fossil,%,36.36
+LV,2020,Gas and Other Fossil,%,36.36
+LV,2020,"Hydro, Bioenergy and Other Renewables",%,60.48
+LV,2020,Renewables,%,63.63
+LV,2020,Wind and Solar,%,3.15
+LV,2020,CO2 intensity,gCO2/kWh,176.57
+LV,2021,Clean,%,63.58
+LV,2021,Fossil,%,36.41
+LV,2021,Gas and Other Fossil,%,36.41
+LV,2021,"Hydro, Bioenergy and Other Renewables",%,61.02
+LV,2021,Renewables,%,63.58
+LV,2021,Wind and Solar,%,2.56
+LV,2021,CO2 intensity,gCO2/kWh,176.07
+LV,2022,Clean,%,75.94
+LV,2022,Fossil,%,24.06
+LV,2022,Gas and Other Fossil,%,24.06
+LV,2022,"Hydro, Bioenergy and Other Renewables",%,70.57
+LV,2022,Renewables,%,75.94
+LV,2022,Wind and Solar,%,5.37
+LV,2022,CO2 intensity,gCO2/kWh,135.19
+LV,2023,Clean,%,77.73
+LV,2023,Fossil,%,22.26
+LV,2023,Gas and Other Fossil,%,22.26
+LV,2023,"Hydro, Bioenergy and Other Renewables",%,69.74
+LV,2023,Renewables,%,77.73
+LV,2023,Wind and Solar,%,7.99
+LV,2023,CO2 intensity,gCO2/kWh,119.12
+LV,2024,Clean,%,73.45
+LV,2024,Fossil,%,26.54
+LV,2024,Gas and Other Fossil,%,26.54
+LV,2024,"Hydro, Bioenergy and Other Renewables",%,60.5
+LV,2024,Renewables,%,73.45
+LV,2024,Wind and Solar,%,12.95
+LV,2024,CO2 intensity,gCO2/kWh,134.28
+LV,2025,Clean,%,73.93
+LV,2025,Fossil,%,26.07
+LV,2025,Gas and Other Fossil,%,26.07
+LV,2025,"Hydro, Bioenergy and Other Renewables",%,57.35
+LV,2025,Renewables,%,73.93
+LV,2025,Wind and Solar,%,16.58
+LV,2025,CO2 intensity,gCO2/kWh,134.28
+LT,2015,Clean,%,39.71
+LT,2015,Fossil,%,60.29
+LT,2015,Gas and Other Fossil,%,60.29
+LT,2015,"Hydro, Bioenergy and Other Renewables",%,18.91
+LT,2015,Renewables,%,39.71
+LT,2015,Wind and Solar,%,20.8
+LT,2015,CO2 intensity,gCO2/kWh,295.51
+LT,2016,Clean,%,57.85
+LT,2016,Fossil,%,42.15
+LT,2016,Gas and Other Fossil,%,42.15
+LT,2016,"Hydro, Bioenergy and Other Renewables",%,24.52
+LT,2016,Renewables,%,57.85
+LT,2016,Wind and Solar,%,33.33
+LT,2016,CO2 intensity,gCO2/kWh,234.16
+LT,2017,Clean,%,71.06
+LT,2017,Fossil,%,28.93
+LT,2017,Gas and Other Fossil,%,28.93
+LT,2017,"Hydro, Bioenergy and Other Renewables",%,30.89
+LT,2017,Renewables,%,71.06
+LT,2017,Wind and Solar,%,40.17
+LT,2017,CO2 intensity,gCO2/kWh,182.58
+LT,2018,Clean,%,75.34
+LT,2018,Fossil,%,24.66
+LT,2018,Gas and Other Fossil,%,24.66
+LT,2018,"Hydro, Bioenergy and Other Renewables",%,33.22
+LT,2018,Renewables,%,75.34
+LT,2018,Wind and Solar,%,42.12
+LT,2018,CO2 intensity,gCO2/kWh,178.08
+LT,2019,Clean,%,73.95
+LT,2019,Fossil,%,26.05
+LT,2019,Gas and Other Fossil,%,26.05
+LT,2019,"Hydro, Bioenergy and Other Renewables",%,26.35
+LT,2019,Renewables,%,73.95
+LT,2019,Wind and Solar,%,47.6
+LT,2019,CO2 intensity,gCO2/kWh,170.66
+LT,2020,Clean,%,54.68
+LT,2020,Fossil,%,45.32
+LT,2020,Gas and Other Fossil,%,45.32
+LT,2020,"Hydro, Bioenergy and Other Renewables",%,18.93
+LT,2020,Renewables,%,54.68
+LT,2020,Wind and Solar,%,35.75
+LT,2020,CO2 intensity,gCO2/kWh,231.92
+LT,2021,Clean,%,60.94
+LT,2021,Fossil,%,39.07
+LT,2021,Gas and Other Fossil,%,39.07
+LT,2021,"Hydro, Bioenergy and Other Renewables",%,24.89
+LT,2021,Renewables,%,60.94
+LT,2021,Wind and Solar,%,36.05
+LT,2021,CO2 intensity,gCO2/kWh,220.93
+LT,2022,Clean,%,74.76
+LT,2022,Fossil,%,25.24
+LT,2022,Gas and Other Fossil,%,25.24
+LT,2022,"Hydro, Bioenergy and Other Renewables",%,28.96
+LT,2022,Renewables,%,74.76
+LT,2022,Wind and Solar,%,45.8
+LT,2022,CO2 intensity,gCO2/kWh,180.69
+LT,2023,Clean,%,83.77
+LT,2023,Fossil,%,16.22
+LT,2023,Gas and Other Fossil,%,16.22
+LT,2023,"Hydro, Bioenergy and Other Renewables",%,22.83
+LT,2023,Renewables,%,83.77
+LT,2023,Wind and Solar,%,60.94
+LT,2023,CO2 intensity,gCO2/kWh,118.87
+LT,2024,Clean,%,84.29
+LT,2024,Fossil,%,15.7
+LT,2024,Gas and Other Fossil,%,15.7
+LT,2024,"Hydro, Bioenergy and Other Renewables",%,19.21
+LT,2024,Renewables,%,84.29
+LT,2024,Wind and Solar,%,65.08
+LT,2024,CO2 intensity,gCO2/kWh,116.37
+LT,2025,Clean,%,77.59
+LT,2025,Fossil,%,22.41
+LT,2025,Gas and Other Fossil,%,22.41
+LT,2025,"Hydro, Bioenergy and Other Renewables",%,13.96
+LT,2025,Renewables,%,77.59
+LT,2025,Wind and Solar,%,63.63
+LT,2025,CO2 intensity,gCO2/kWh,138.51
+LU,2015,Clean,%,32.08
+LU,2015,Fossil,%,67.91
+LU,2015,Gas and Other Fossil,%,67.91
+LU,2015,"Hydro, Bioenergy and Other Renewables",%,17.16
+LU,2015,Renewables,%,32.08
+LU,2015,Wind and Solar,%,14.92
+LU,2015,CO2 intensity,gCO2/kWh,268.66
+LU,2016,Clean,%,58.23
+LU,2016,Fossil,%,41.77
+LU,2016,Gas and Other Fossil,%,41.77
+LU,2016,"Hydro, Bioenergy and Other Renewables",%,32.91
+LU,2016,Renewables,%,58.23
+LU,2016,Wind and Solar,%,25.32
+LU,2016,CO2 intensity,gCO2/kWh,215.19
+LU,2017,Clean,%,66.67
+LU,2017,Fossil,%,33.33
+LU,2017,Gas and Other Fossil,%,33.33
+LU,2017,"Hydro, Bioenergy and Other Renewables",%,28.89
+LU,2017,Renewables,%,66.67
+LU,2017,Wind and Solar,%,37.78
+LU,2017,CO2 intensity,gCO2/kWh,188.89
+LU,2018,Clean,%,70.84
+LU,2018,Fossil,%,29.16
+LU,2018,Gas and Other Fossil,%,29.16
+LU,2018,"Hydro, Bioenergy and Other Renewables",%,32.3
+LU,2018,Renewables,%,70.84
+LU,2018,Wind and Solar,%,38.54
+LU,2018,CO2 intensity,gCO2/kWh,187.5
+LU,2019,Clean,%,74.77
+LU,2019,Fossil,%,25.24
+LU,2019,Gas and Other Fossil,%,25.24
+LU,2019,"Hydro, Bioenergy and Other Renewables",%,36.45
+LU,2019,Renewables,%,74.77
+LU,2019,Wind and Solar,%,38.32
+LU,2019,CO2 intensity,gCO2/kWh,168.22
+LU,2020,Clean,%,79.51
+LU,2020,Fossil,%,20.49
+LU,2020,Gas and Other Fossil,%,20.49
+LU,2020,"Hydro, Bioenergy and Other Renewables",%,37.71
+LU,2020,Renewables,%,79.51
+LU,2020,Wind and Solar,%,41.8
+LU,2020,CO2 intensity,gCO2/kWh,163.93
+LU,2021,Clean,%,80.48
+LU,2021,Fossil,%,19.51
+LU,2021,Gas and Other Fossil,%,19.51
+LU,2021,"Hydro, Bioenergy and Other Renewables",%,40.65
+LU,2021,Renewables,%,80.48
+LU,2021,Wind and Solar,%,39.83
+LU,2021,CO2 intensity,gCO2/kWh,162.6
+LU,2022,Clean,%,85.95
+LU,2022,Fossil,%,14.05
+LU,2022,Gas and Other Fossil,%,14.05
+LU,2022,"Hydro, Bioenergy and Other Renewables",%,37.19
+LU,2022,Renewables,%,85.95
+LU,2022,Wind and Solar,%,48.76
+LU,2022,CO2 intensity,gCO2/kWh,140.5
+LU,2023,Clean,%,89.36
+LU,2023,Fossil,%,10.64
+LU,2023,Gas and Other Fossil,%,10.64
+LU,2023,"Hydro, Bioenergy and Other Renewables",%,33.33
+LU,2023,Renewables,%,89.36
+LU,2023,Wind and Solar,%,56.03
+LU,2023,CO2 intensity,gCO2/kWh,120.57
+LU,2024,Clean,%,90.72
+LU,2024,Fossil,%,9.28
+LU,2024,Gas and Other Fossil,%,9.28
+LU,2024,"Hydro, Bioenergy and Other Renewables",%,36.42
+LU,2024,Renewables,%,90.72
+LU,2024,Wind and Solar,%,54.3
+LU,2024,CO2 intensity,gCO2/kWh,132.45
+LU,2025,Clean,%,91.56
+LU,2025,Fossil,%,8.45
+LU,2025,Gas and Other Fossil,%,8.45
+LU,2025,"Hydro, Bioenergy and Other Renewables",%,30.52
+LU,2025,Renewables,%,91.56
+LU,2025,Wind and Solar,%,61.04
+LU,2025,CO2 intensity,gCO2/kWh,123.38
+MT,2015,Clean,%,7.69
+MT,2015,Fossil,%,92.31
+MT,2015,Gas and Other Fossil,%,92.31
+MT,2015,"Hydro, Bioenergy and Other Renewables",%,0.77
+MT,2015,Renewables,%,7.69
+MT,2015,Wind and Solar,%,6.92
+MT,2015,CO2 intensity,gCO2/kWh,607.69
+MT,2016,Clean,%,16.28
+MT,2016,Fossil,%,83.72
+MT,2016,Gas and Other Fossil,%,83.72
+MT,2016,"Hydro, Bioenergy and Other Renewables",%,1.16
+MT,2016,Renewables,%,16.28
+MT,2016,Wind and Solar,%,15.12
+MT,2016,CO2 intensity,gCO2/kWh,558.14
+MT,2017,Clean,%,10.31
+MT,2017,Fossil,%,89.7
+MT,2017,Gas and Other Fossil,%,89.7
+MT,2017,"Hydro, Bioenergy and Other Renewables",%,0.61
+MT,2017,Renewables,%,10.31
+MT,2017,Wind and Solar,%,9.7
+MT,2017,CO2 intensity,gCO2/kWh,527.27
+MT,2018,Clean,%,10.15
+MT,2018,Fossil,%,89.85
+MT,2018,Gas and Other Fossil,%,89.85
+MT,2018,"Hydro, Bioenergy and Other Renewables",%,0.51
+MT,2018,Renewables,%,10.15
+MT,2018,Wind and Solar,%,9.64
+MT,2018,CO2 intensity,gCO2/kWh,512.69
+MT,2019,Clean,%,10.14
+MT,2019,Fossil,%,89.86
+MT,2019,Gas and Other Fossil,%,89.86
+MT,2019,"Hydro, Bioenergy and Other Renewables",%,0.48
+MT,2019,Renewables,%,10.14
+MT,2019,Wind and Solar,%,9.66
+MT,2019,CO2 intensity,gCO2/kWh,516.91
+MT,2020,Clean,%,11.63
+MT,2020,Fossil,%,88.37
+MT,2020,Gas and Other Fossil,%,88.37
+MT,2020,"Hydro, Bioenergy and Other Renewables",%,0.47
+MT,2020,Renewables,%,11.63
+MT,2020,Wind and Solar,%,11.16
+MT,2020,CO2 intensity,gCO2/kWh,506.98
+MT,2021,Clean,%,12.16
+MT,2021,Fossil,%,87.84
+MT,2021,Gas and Other Fossil,%,87.84
+MT,2021,"Hydro, Bioenergy and Other Renewables",%,0.45
+MT,2021,Renewables,%,12.16
+MT,2021,Wind and Solar,%,11.71
+MT,2021,CO2 intensity,gCO2/kWh,504.51
+MT,2022,Clean,%,13.04
+MT,2022,Fossil,%,86.96
+MT,2022,Gas and Other Fossil,%,86.96
+MT,2022,"Hydro, Bioenergy and Other Renewables",%,0.43
+MT,2022,Renewables,%,13.04
+MT,2022,Wind and Solar,%,12.61
+MT,2022,CO2 intensity,gCO2/kWh,500.0
+MT,2023,Clean,%,13.62
+MT,2023,Fossil,%,86.38
+MT,2023,Gas and Other Fossil,%,86.38
+MT,2023,"Hydro, Bioenergy and Other Renewables",%,0.43
+MT,2023,Renewables,%,13.62
+MT,2023,Wind and Solar,%,13.19
+MT,2023,CO2 intensity,gCO2/kWh,493.62
+MT,2024,Clean,%,15.53
+MT,2024,Fossil,%,84.48
+MT,2024,Gas and Other Fossil,%,84.48
+MT,2024,"Hydro, Bioenergy and Other Renewables",%,0.46
+MT,2024,Renewables,%,15.53
+MT,2024,Wind and Solar,%,15.07
+MT,2024,CO2 intensity,gCO2/kWh,488.58
+MT,2025,Clean,%,15.99
+MT,2025,Fossil,%,84.02
+MT,2025,Gas and Other Fossil,%,84.02
+MT,2025,"Hydro, Bioenergy and Other Renewables",%,0.46
+MT,2025,Renewables,%,15.99
+MT,2025,Wind and Solar,%,15.53
+MT,2025,CO2 intensity,gCO2/kWh,484.02
+NL,2015,Clean,%,16.3
+NL,2015,Fossil,%,83.69
+NL,2015,Gas and Other Fossil,%,47.55
+NL,2015,"Hydro, Bioenergy and Other Renewables",%,4.61
+NL,2015,Renewables,%,12.56
+NL,2015,Wind and Solar,%,7.95
+NL,2015,CO2 intensity,gCO2/kWh,551.43
+NL,2016,Clean,%,16.44
+NL,2016,Fossil,%,83.56
+NL,2016,Gas and Other Fossil,%,51.25
+NL,2016,"Hydro, Bioenergy and Other Renewables",%,4.4
+NL,2016,Renewables,%,12.97
+NL,2016,Wind and Solar,%,8.57
+NL,2016,CO2 intensity,gCO2/kWh,524.57
+NL,2017,Clean,%,17.95
+NL,2017,Fossil,%,82.05
+NL,2017,Gas and Other Fossil,%,55.01
+NL,2017,"Hydro, Bioenergy and Other Renewables",%,4.01
+NL,2017,Renewables,%,15.02
+NL,2017,Wind and Solar,%,11.01
+NL,2017,CO2 intensity,gCO2/kWh,489.66
+NL,2018,Clean,%,19.79
+NL,2018,Fossil,%,80.2
+NL,2018,Gas and Other Fossil,%,55.81
+NL,2018,"Hydro, Bioenergy and Other Renewables",%,4.08
+NL,2018,Renewables,%,16.69
+NL,2018,Wind and Solar,%,12.61
+NL,2018,CO2 intensity,gCO2/kWh,467.11
+NL,2019,Clean,%,22.26
+NL,2019,Fossil,%,77.76
+NL,2019,Gas and Other Fossil,%,63.02
+NL,2019,"Hydro, Bioenergy and Other Renewables",%,4.91
+NL,2019,Renewables,%,19.0
+NL,2019,Wind and Solar,%,14.09
+NL,2019,CO2 intensity,gCO2/kWh,410.0
+NL,2020,Clean,%,30.19
+NL,2020,Fossil,%,69.81
+NL,2020,Gas and Other Fossil,%,63.56
+NL,2020,"Hydro, Bioenergy and Other Renewables",%,7.29
+NL,2020,Renewables,%,26.84
+NL,2020,Wind and Solar,%,19.55
+NL,2020,CO2 intensity,gCO2/kWh,342.9
+NL,2021,Clean,%,36.62
+NL,2021,Fossil,%,63.38
+NL,2021,Gas and Other Fossil,%,51.3
+NL,2021,"Hydro, Bioenergy and Other Renewables",%,9.1
+NL,2021,Renewables,%,33.45
+NL,2021,Wind and Solar,%,24.35
+NL,2021,CO2 intensity,gCO2/kWh,351.97
+NL,2022,Clean,%,43.57
+NL,2022,Fossil,%,56.44
+NL,2022,Gas and Other Fossil,%,44.1
+NL,2022,"Hydro, Bioenergy and Other Renewables",%,8.23
+NL,2022,Renewables,%,40.1
+NL,2022,Wind and Solar,%,31.87
+NL,2022,CO2 intensity,gCO2/kWh,325.61
+NL,2023,Clean,%,50.72
+NL,2023,Fossil,%,49.29
+NL,2023,Gas and Other Fossil,%,42.03
+NL,2023,"Hydro, Bioenergy and Other Renewables",%,6.43
+NL,2023,Renewables,%,47.39
+NL,2023,Wind and Solar,%,40.96
+NL,2023,CO2 intensity,gCO2/kWh,268.17
+NL,2024,Clean,%,53.66
+NL,2024,Fossil,%,46.35
+NL,2024,Gas and Other Fossil,%,40.24
+NL,2024,"Hydro, Bioenergy and Other Renewables",%,5.53
+NL,2024,Renewables,%,50.74
+NL,2024,Wind and Solar,%,45.21
+NL,2024,CO2 intensity,gCO2/kWh,250.72
+NL,2025,Clean,%,54.17
+NL,2025,Fossil,%,45.85
+NL,2025,Gas and Other Fossil,%,38.77
+NL,2025,"Hydro, Bioenergy and Other Renewables",%,5.12
+NL,2025,Renewables,%,51.21
+NL,2025,Wind and Solar,%,46.09
+NL,2025,CO2 intensity,gCO2/kWh,253.56
+PL,2015,Clean,%,13.81
+PL,2015,Fossil,%,86.19
+PL,2015,Gas and Other Fossil,%,6.75
+PL,2015,"Hydro, Bioenergy and Other Renewables",%,7.16
+PL,2015,Renewables,%,13.81
+PL,2015,Wind and Solar,%,6.65
+PL,2015,CO2 intensity,gCO2/kWh,826.11
+PL,2016,Clean,%,13.74
+PL,2016,Fossil,%,86.27
+PL,2016,Gas and Other Fossil,%,7.76
+PL,2016,"Hydro, Bioenergy and Other Renewables",%,6.09
+PL,2016,Renewables,%,13.74
+PL,2016,Wind and Solar,%,7.65
+PL,2016,CO2 intensity,gCO2/kWh,818.55
+PL,2017,Clean,%,14.21
+PL,2017,Fossil,%,85.79
+PL,2017,Gas and Other Fossil,%,8.6
+PL,2017,"Hydro, Bioenergy and Other Renewables",%,5.33
+PL,2017,Renewables,%,14.21
+PL,2017,Wind and Solar,%,8.88
+PL,2017,CO2 intensity,gCO2/kWh,805.54
+PL,2018,Clean,%,12.76
+PL,2018,Fossil,%,87.24
+PL,2018,Gas and Other Fossil,%,10.18
+PL,2018,"Hydro, Bioenergy and Other Renewables",%,5.03
+PL,2018,Renewables,%,12.76
+PL,2018,Wind and Solar,%,7.73
+PL,2018,CO2 intensity,gCO2/kWh,809.01
+PL,2019,Clean,%,15.6
+PL,2019,Fossil,%,84.4
+PL,2019,Gas and Other Fossil,%,12.02
+PL,2019,"Hydro, Bioenergy and Other Renewables",%,5.91
+PL,2019,Renewables,%,15.6
+PL,2019,Wind and Solar,%,9.69
+PL,2019,CO2 intensity,gCO2/kWh,771.66
+PL,2020,Clean,%,17.96
+PL,2020,Fossil,%,82.03
+PL,2020,Gas and Other Fossil,%,13.69
+PL,2020,"Hydro, Bioenergy and Other Renewables",%,6.66
+PL,2020,Renewables,%,17.96
+PL,2020,Wind and Solar,%,11.3
+PL,2020,CO2 intensity,gCO2/kWh,738.28
+PL,2021,Clean,%,17.1
+PL,2021,Fossil,%,82.91
+PL,2021,Gas and Other Fossil,%,11.56
+PL,2021,"Hydro, Bioenergy and Other Renewables",%,5.82
+PL,2021,Renewables,%,17.1
+PL,2021,Wind and Solar,%,11.28
+PL,2021,CO2 intensity,gCO2/kWh,756.36
+PL,2022,Clean,%,21.1
+PL,2022,Fossil,%,78.9
+PL,2022,Gas and Other Fossil,%,9.06
+PL,2022,"Hydro, Bioenergy and Other Renewables",%,5.37
+PL,2022,Renewables,%,21.1
+PL,2022,Wind and Solar,%,15.73
+PL,2022,CO2 intensity,gCO2/kWh,732.53
+PL,2023,Clean,%,27.71
+PL,2023,Fossil,%,72.29
+PL,2023,Gas and Other Fossil,%,12.57
+PL,2023,"Hydro, Bioenergy and Other Renewables",%,6.39
+PL,2023,Renewables,%,27.71
+PL,2023,Wind and Solar,%,21.32
+PL,2023,CO2 intensity,gCO2/kWh,650.86
+PL,2024,Clean,%,31.15
+PL,2024,Fossil,%,68.85
+PL,2024,Gas and Other Fossil,%,14.53
+PL,2024,"Hydro, Bioenergy and Other Renewables",%,5.85
+PL,2024,Renewables,%,31.15
+PL,2024,Wind and Solar,%,25.3
+PL,2024,CO2 intensity,gCO2/kWh,608.36
+PL,2025,Clean,%,31.26
+PL,2025,Fossil,%,68.75
+PL,2025,Gas and Other Fossil,%,18.11
+PL,2025,"Hydro, Bioenergy and Other Renewables",%,6.03
+PL,2025,Renewables,%,31.26
+PL,2025,Wind and Solar,%,25.23
+PL,2025,CO2 intensity,gCO2/kWh,590.8
+PT,2015,Clean,%,47.62
+PT,2015,Fossil,%,52.36
+PT,2015,Gas and Other Fossil,%,23.56
+PT,2015,"Hydro, Bioenergy and Other Renewables",%,23.38
+PT,2015,Renewables,%,47.62
+PT,2015,Wind and Solar,%,24.24
+PT,2015,CO2 intensity,gCO2/kWh,413.96
+PT,2016,Clean,%,54.7
+PT,2016,Fossil,%,45.3
+PT,2016,Gas and Other Fossil,%,23.91
+PT,2016,"Hydro, Bioenergy and Other Renewables",%,32.11
+PT,2016,Renewables,%,54.7
+PT,2016,Wind and Solar,%,22.59
+PT,2016,CO2 intensity,gCO2/kWh,343.61
+PT,2017,Clean,%,39.2
+PT,2017,Fossil,%,60.79
+PT,2017,Gas and Other Fossil,%,35.32
+PT,2017,"Hydro, Bioenergy and Other Renewables",%,16.21
+PT,2017,Renewables,%,39.2
+PT,2017,Wind and Solar,%,22.99
+PT,2017,CO2 intensity,gCO2/kWh,433.76
+PT,2018,Clean,%,50.4
+PT,2018,Fossil,%,49.59
+PT,2018,Gas and Other Fossil,%,29.01
+PT,2018,"Hydro, Bioenergy and Other Renewables",%,27.04
+PT,2018,Renewables,%,50.4
+PT,2018,Wind and Solar,%,23.36
+PT,2018,CO2 intensity,gCO2/kWh,358.7
+PT,2019,Clean,%,53.12
+PT,2019,Fossil,%,46.88
+PT,2019,Gas and Other Fossil,%,36.16
+PT,2019,"Hydro, Bioenergy and Other Renewables",%,24.03
+PT,2019,Renewables,%,53.12
+PT,2019,Wind and Solar,%,29.09
+PT,2019,CO2 intensity,gCO2/kWh,300.97
+PT,2020,Clean,%,58.59
+PT,2020,Fossil,%,41.41
+PT,2020,Gas and Other Fossil,%,36.82
+PT,2020,"Hydro, Bioenergy and Other Renewables",%,31.31
+PT,2020,Renewables,%,58.59
+PT,2020,Wind and Solar,%,27.28
+PT,2020,CO2 intensity,gCO2/kWh,248.3
+PT,2021,Clean,%,64.09
+PT,2021,Fossil,%,35.92
+PT,2021,Gas and Other Fossil,%,34.29
+PT,2021,"Hydro, Bioenergy and Other Renewables",%,32.7
+PT,2021,Renewables,%,64.09
+PT,2021,Wind and Solar,%,31.39
+PT,2021,CO2 intensity,gCO2/kWh,210.48
+PT,2022,Clean,%,59.6
+PT,2022,Fossil,%,40.41
+PT,2022,Gas and Other Fossil,%,40.41
+PT,2022,"Hydro, Bioenergy and Other Renewables",%,23.4
+PT,2022,Renewables,%,59.6
+PT,2022,Wind and Solar,%,36.2
+PT,2022,CO2 intensity,gCO2/kWh,225.34
+PT,2023,Clean,%,74.47
+PT,2023,Fossil,%,25.53
+PT,2023,Gas and Other Fossil,%,25.53
+PT,2023,"Hydro, Bioenergy and Other Renewables",%,34.79
+PT,2023,Renewables,%,74.47
+PT,2023,Wind and Solar,%,39.68
+PT,2023,CO2 intensity,gCO2/kWh,158.43
+PT,2024,Clean,%,85.19
+PT,2024,Fossil,%,14.81
+PT,2024,Gas and Other Fossil,%,14.81
+PT,2024,"Hydro, Bioenergy and Other Renewables",%,39.85
+PT,2024,Renewables,%,85.19
+PT,2024,Wind and Solar,%,45.34
+PT,2024,CO2 intensity,gCO2/kWh,110.64
+PT,2025,Clean,%,80.89
+PT,2025,Fossil,%,19.1
+PT,2025,Gas and Other Fossil,%,19.1
+PT,2025,"Hydro, Bioenergy and Other Renewables",%,36.82
+PT,2025,Renewables,%,80.89
+PT,2025,Wind and Solar,%,44.07
+PT,2025,CO2 intensity,gCO2/kWh,128.08
+RO,2015,Clean,%,57.62
+RO,2015,Fossil,%,42.38
+RO,2015,Gas and Other Fossil,%,14.77
+RO,2015,"Hydro, Bioenergy and Other Renewables",%,26.12
+RO,2015,Renewables,%,39.89
+RO,2015,Wind and Solar,%,13.77
+RO,2015,CO2 intensity,gCO2/kWh,369.02
+RO,2016,Clean,%,59.58
+RO,2016,Fossil,%,40.43
+RO,2016,Gas and Other Fossil,%,15.7
+RO,2016,"Hydro, Bioenergy and Other Renewables",%,28.91
+RO,2016,Renewables,%,42.0
+RO,2016,Wind and Solar,%,13.09
+RO,2016,CO2 intensity,gCO2/kWh,345.38
+RO,2017,Clean,%,56.33
+RO,2017,Fossil,%,43.66
+RO,2017,Gas and Other Fossil,%,17.25
+RO,2017,"Hydro, Bioenergy and Other Renewables",%,23.63
+RO,2017,Renewables,%,38.22
+RO,2017,Wind and Solar,%,14.59
+RO,2017,CO2 intensity,gCO2/kWh,369.22
+RO,2018,Clean,%,58.63
+RO,2018,Fossil,%,41.37
+RO,2018,Gas and Other Fossil,%,16.94
+RO,2018,"Hydro, Bioenergy and Other Renewables",%,28.25
+RO,2018,Renewables,%,40.87
+RO,2018,Wind and Solar,%,12.62
+RO,2018,CO2 intensity,gCO2/kWh,348.06
+RO,2019,Clean,%,61.11
+RO,2019,Fossil,%,38.88
+RO,2019,Gas and Other Fossil,%,15.72
+RO,2019,"Hydro, Bioenergy and Other Renewables",%,27.36
+RO,2019,Renewables,%,41.91
+RO,2019,Wind and Solar,%,14.55
+RO,2019,CO2 intensity,gCO2/kWh,328.97
+RO,2020,Clean,%,65.36
+RO,2020,Fossil,%,34.64
+RO,2020,Gas and Other Fossil,%,17.69
+RO,2020,"Hydro, Bioenergy and Other Renewables",%,28.86
+RO,2020,Renewables,%,44.58
+RO,2020,Wind and Solar,%,15.72
+RO,2020,CO2 intensity,gCO2/kWh,277.85
+RO,2021,Clean,%,64.24
+RO,2021,Fossil,%,35.75
+RO,2021,Gas and Other Fossil,%,17.5
+RO,2021,"Hydro, Bioenergy and Other Renewables",%,30.84
+RO,2021,Renewables,%,44.98
+RO,2021,Wind and Solar,%,14.14
+RO,2021,CO2 intensity,gCO2/kWh,289.96
+RO,2022,Clean,%,63.42
+RO,2022,Fossil,%,36.58
+RO,2022,Gas and Other Fossil,%,17.64
+RO,2022,"Hydro, Bioenergy and Other Renewables",%,26.73
+RO,2022,Renewables,%,43.16
+RO,2022,Wind and Solar,%,16.43
+RO,2022,CO2 intensity,gCO2/kWh,297.77
+RO,2023,Clean,%,69.45
+RO,2023,Fossil,%,30.55
+RO,2023,Gas and Other Fossil,%,16.4
+RO,2023,"Hydro, Bioenergy and Other Renewables",%,32.62
+RO,2023,Renewables,%,49.8
+RO,2023,Wind and Solar,%,17.18
+RO,2023,CO2 intensity,gCO2/kWh,243.2
+RO,2024,Clean,%,67.21
+RO,2024,Fossil,%,32.8
+RO,2024,Gas and Other Fossil,%,17.7
+RO,2024,"Hydro, Bioenergy and Other Renewables",%,27.83
+RO,2024,Renewables,%,46.52
+RO,2024,Wind and Solar,%,18.69
+RO,2024,CO2 intensity,gCO2/kWh,259.67
+RO,2025,Clean,%,67.51
+RO,2025,Fossil,%,32.48
+RO,2025,Gas and Other Fossil,%,17.29
+RO,2025,"Hydro, Bioenergy and Other Renewables",%,25.25
+RO,2025,Renewables,%,47.02
+RO,2025,Wind and Solar,%,21.77
+RO,2025,CO2 intensity,gCO2/kWh,259.74
+SK,2015,Clean,%,79.65
+SK,2015,Fossil,%,20.36
+SK,2015,Gas and Other Fossil,%,9.73
+SK,2015,"Hydro, Bioenergy and Other Renewables",%,20.78
+SK,2015,Renewables,%,22.74
+SK,2015,Wind and Solar,%,1.96
+SK,2015,CO2 intensity,gCO2/kWh,177.31
+SK,2016,Clean,%,79.86
+SK,2016,Fossil,%,20.15
+SK,2016,Gas and Other Fossil,%,9.7
+SK,2016,"Hydro, Bioenergy and Other Renewables",%,22.73
+SK,2016,Renewables,%,24.75
+SK,2016,Wind and Solar,%,2.02
+SK,2016,CO2 intensity,gCO2/kWh,177.24
+SK,2017,Clean,%,78.85
+SK,2017,Fossil,%,21.15
+SK,2017,Gas and Other Fossil,%,10.25
+SK,2017,"Hydro, Bioenergy and Other Renewables",%,21.95
+SK,2017,Renewables,%,23.85
+SK,2017,Wind and Solar,%,1.9
+SK,2017,CO2 intensity,gCO2/kWh,183.08
+SK,2018,Clean,%,77.46
+SK,2018,Fossil,%,22.55
+SK,2018,Gas and Other Fossil,%,11.26
+SK,2018,"Hydro, Bioenergy and Other Renewables",%,19.58
+SK,2018,Renewables,%,21.8
+SK,2018,Wind and Solar,%,2.22
+SK,2018,CO2 intensity,gCO2/kWh,191.67
+SK,2019,Clean,%,77.75
+SK,2019,Fossil,%,22.25
+SK,2019,Gas and Other Fossil,%,13.96
+SK,2019,"Hydro, Bioenergy and Other Renewables",%,21.45
+SK,2019,Renewables,%,23.58
+SK,2019,Wind and Solar,%,2.13
+SK,2019,CO2 intensity,gCO2/kWh,171.22
+SK,2020,Clean,%,78.18
+SK,2020,Fossil,%,21.81
+SK,2020,Gas and Other Fossil,%,15.29
+SK,2020,"Hydro, Bioenergy and Other Renewables",%,21.71
+SK,2020,Renewables,%,24.02
+SK,2020,Wind and Solar,%,2.31
+SK,2020,CO2 intensity,gCO2/kWh,158.54
+SK,2021,Clean,%,75.76
+SK,2021,Fossil,%,24.23
+SK,2021,Gas and Other Fossil,%,18.51
+SK,2021,"Hydro, Bioenergy and Other Renewables",%,20.54
+SK,2021,Renewables,%,22.8
+SK,2021,Wind and Solar,%,2.26
+SK,2021,CO2 intensity,gCO2/kWh,167.34
+SK,2022,Clean,%,81.91
+SK,2022,Fossil,%,18.08
+SK,2022,Gas and Other Fossil,%,11.98
+SK,2022,"Hydro, Bioenergy and Other Renewables",%,19.48
+SK,2022,Renewables,%,21.93
+SK,2022,Wind and Solar,%,2.45
+SK,2022,CO2 intensity,gCO2/kWh,142.05
+SK,2023,Clean,%,84.79
+SK,2023,Fossil,%,15.2
+SK,2023,Gas and Other Fossil,%,11.07
+SK,2023,"Hydro, Bioenergy and Other Renewables",%,20.65
+SK,2023,Renewables,%,22.72
+SK,2023,Wind and Solar,%,2.07
+SK,2023,CO2 intensity,gCO2/kWh,115.14
+SK,2024,Clean,%,85.8
+SK,2024,Fossil,%,14.2
+SK,2024,Gas and Other Fossil,%,12.44
+SK,2024,"Hydro, Bioenergy and Other Renewables",%,21.71
+SK,2024,Renewables,%,24.05
+SK,2024,Wind and Solar,%,2.34
+SK,2024,CO2 intensity,gCO2/kWh,96.88
+SK,2025,Clean,%,85.14
+SK,2025,Fossil,%,14.86
+SK,2025,Gas and Other Fossil,%,13.79
+SK,2025,"Hydro, Bioenergy and Other Renewables",%,16.32
+SK,2025,Renewables,%,18.73
+SK,2025,Wind and Solar,%,2.41
+SK,2025,CO2 intensity,gCO2/kWh,94.88
+SI,2015,Clean,%,67.57
+SI,2015,Fossil,%,32.43
+SI,2015,Gas and Other Fossil,%,2.84
+SI,2015,"Hydro, Bioenergy and Other Renewables",%,27.5
+SI,2015,Renewables,%,29.39
+SI,2015,Wind and Solar,%,1.89
+SI,2015,CO2 intensity,gCO2/kWh,316.89
+SI,2016,Clean,%,66.42
+SI,2016,Fossil,%,33.58
+SI,2016,Gas and Other Fossil,%,2.71
+SI,2016,"Hydro, Bioenergy and Other Renewables",%,29.46
+SI,2016,Renewables,%,31.18
+SI,2016,Wind and Solar,%,1.72
+SI,2016,CO2 intensity,gCO2/kWh,325.94
+SI,2017,Clean,%,66.84
+SI,2017,Fossil,%,33.14
+SI,2017,Gas and Other Fossil,%,3.11
+SI,2017,"Hydro, Bioenergy and Other Renewables",%,25.85
+SI,2017,Renewables,%,27.65
+SI,2017,Wind and Solar,%,1.8
+SI,2017,CO2 intensity,gCO2/kWh,318.38
+SI,2018,Clean,%,68.24
+SI,2018,Fossil,%,31.76
+SI,2018,Gas and Other Fossil,%,3.1
+SI,2018,"Hydro, Bioenergy and Other Renewables",%,30.77
+SI,2018,Renewables,%,32.38
+SI,2018,Wind and Solar,%,1.61
+SI,2018,CO2 intensity,gCO2/kWh,304.59
+SI,2019,Clean,%,68.34
+SI,2019,Fossil,%,31.65
+SI,2019,Gas and Other Fossil,%,3.46
+SI,2019,"Hydro, Bioenergy and Other Renewables",%,29.76
+SI,2019,Renewables,%,31.71
+SI,2019,Wind and Solar,%,1.95
+SI,2019,CO2 intensity,gCO2/kWh,298.93
+SI,2020,Clean,%,70.64
+SI,2020,Fossil,%,29.36
+SI,2020,Gas and Other Fossil,%,3.55
+SI,2020,"Hydro, Bioenergy and Other Renewables",%,30.79
+SI,2020,Renewables,%,33.04
+SI,2020,Wind and Solar,%,2.25
+SI,2020,CO2 intensity,gCO2/kWh,277.09
+SI,2021,Clean,%,71.52
+SI,2021,Fossil,%,28.49
+SI,2021,Gas and Other Fossil,%,3.79
+SI,2021,"Hydro, Bioenergy and Other Renewables",%,31.94
+SI,2021,Renewables,%,34.89
+SI,2021,Wind and Solar,%,2.95
+SI,2021,CO2 intensity,gCO2/kWh,269.4
+SI,2022,Clean,%,72.46
+SI,2022,Fossil,%,27.55
+SI,2022,Gas and Other Fossil,%,4.12
+SI,2022,"Hydro, Bioenergy and Other Renewables",%,25.53
+SI,2022,Renewables,%,30.47
+SI,2022,Wind and Solar,%,4.94
+SI,2022,CO2 intensity,gCO2/kWh,257.49
+SI,2023,Clean,%,76.51
+SI,2023,Fossil,%,23.47
+SI,2023,Gas and Other Fossil,%,3.28
+SI,2023,"Hydro, Bioenergy and Other Renewables",%,34.14
+SI,2023,Renewables,%,40.5
+SI,2023,Wind and Solar,%,6.36
+SI,2023,CO2 intensity,gCO2/kWh,225.08
+SI,2024,Clean,%,76.07
+SI,2024,Fossil,%,23.94
+SI,2024,Gas and Other Fossil,%,2.99
+SI,2024,"Hydro, Bioenergy and Other Renewables",%,33.46
+SI,2024,Renewables,%,41.12
+SI,2024,Wind and Solar,%,7.66
+SI,2024,CO2 intensity,gCO2/kWh,230.4
+SI,2025,Clean,%,78.83
+SI,2025,Fossil,%,21.17
+SI,2025,Gas and Other Fossil,%,6.52
+SI,2025,"Hydro, Bioenergy and Other Renewables",%,29.23
+SI,2025,Renewables,%,39.65
+SI,2025,Wind and Solar,%,10.42
+SI,2025,CO2 intensity,gCO2/kWh,183.47
+ES,2015,Clean,%,55.66
+ES,2015,Fossil,%,44.33
+ES,2015,Gas and Other Fossil,%,25.8
+ES,2015,"Hydro, Bioenergy and Other Renewables",%,12.23
+ES,2015,Renewables,%,35.02
+ES,2015,Wind and Solar,%,22.79
+ES,2015,CO2 intensity,gCO2/kWh,328.5
+ES,2016,Clean,%,60.31
+ES,2016,Fossil,%,39.7
+ES,2016,Gas and Other Fossil,%,26.24
+ES,2016,"Hydro, Bioenergy and Other Renewables",%,15.55
+ES,2016,Renewables,%,38.65
+ES,2016,Wind and Solar,%,23.1
+ES,2016,CO2 intensity,gCO2/kWh,282.93
+ES,2017,Clean,%,53.6
+ES,2017,Fossil,%,46.41
+ES,2017,Gas and Other Fossil,%,29.84
+ES,2017,"Hydro, Bioenergy and Other Renewables",%,8.96
+ES,2017,Renewables,%,32.29
+ES,2017,Wind and Solar,%,23.33
+ES,2017,CO2 intensity,gCO2/kWh,329.17
+ES,2018,Clean,%,58.82
+ES,2018,Fossil,%,41.18
+ES,2018,Gas and Other Fossil,%,27.42
+ES,2018,"Hydro, Bioenergy and Other Renewables",%,14.83
+ES,2018,Renewables,%,38.27
+ES,2018,Wind and Solar,%,23.44
+ES,2018,CO2 intensity,gCO2/kWh,290.86
+ES,2019,Clean,%,58.9
+ES,2019,Fossil,%,41.09
+ES,2019,Gas and Other Fossil,%,36.34
+ES,2019,"Hydro, Bioenergy and Other Renewables",%,11.18
+ES,2019,Renewables,%,37.33
+ES,2019,Wind and Solar,%,26.15
+ES,2019,CO2 intensity,gCO2/kWh,246.67
+ES,2020,Clean,%,66.33
+ES,2020,Fossil,%,33.68
+ES,2020,Gas and Other Fossil,%,31.55
+ES,2020,"Hydro, Bioenergy and Other Renewables",%,14.14
+ES,2020,Renewables,%,43.86
+ES,2020,Wind and Solar,%,29.72
+ES,2020,CO2 intensity,gCO2/kWh,199.1
+ES,2021,Clean,%,67.33
+ES,2021,Fossil,%,32.67
+ES,2021,Gas and Other Fossil,%,30.87
+ES,2021,"Hydro, Bioenergy and Other Renewables",%,13.51
+ES,2021,Renewables,%,46.44
+ES,2021,Wind and Solar,%,32.93
+ES,2021,CO2 intensity,gCO2/kWh,193.54
+ES,2022,Clean,%,63.21
+ES,2022,Fossil,%,36.79
+ES,2022,Gas and Other Fossil,%,34.05
+ES,2022,"Hydro, Bioenergy and Other Renewables",%,8.51
+ES,2022,Renewables,%,42.81
+ES,2022,Wind and Solar,%,34.3
+ES,2022,CO2 intensity,gCO2/kWh,217.13
+ES,2023,Clean,%,71.89
+ES,2023,Fossil,%,28.11
+ES,2023,Gas and Other Fossil,%,26.81
+ES,2023,"Hydro, Bioenergy and Other Renewables",%,11.07
+ES,2023,Renewables,%,51.51
+ES,2023,Wind and Solar,%,40.44
+ES,2023,CO2 intensity,gCO2/kWh,169.68
+ES,2024,Clean,%,76.75
+ES,2024,Fossil,%,23.26
+ES,2024,Gas and Other Fossil,%,22.34
+ES,2024,"Hydro, Bioenergy and Other Renewables",%,14.45
+ES,2024,Renewables,%,57.34
+ES,2024,Wind and Solar,%,42.89
+ES,2024,CO2 intensity,gCO2/kWh,146.22
+ES,2025,Clean,%,74.65
+ES,2025,Fossil,%,25.35
+ES,2025,Gas and Other Fossil,%,25.03
+ES,2025,"Hydro, Bioenergy and Other Renewables",%,13.61
+ES,2025,Renewables,%,55.86
+ES,2025,Wind and Solar,%,42.25
+ES,2025,CO2 intensity,gCO2/kWh,153.56
+SE,2015,Clean,%,98.05
+SE,2015,Fossil,%,1.95
+SE,2015,Gas and Other Fossil,%,1.71
+SE,2015,"Hydro, Bioenergy and Other Renewables",%,53.14
+SE,2015,Renewables,%,63.27
+SE,2015,Wind and Solar,%,10.13
+SE,2015,CO2 intensity,gCO2/kWh,40.86
+SE,2016,Clean,%,97.65
+SE,2016,Fossil,%,2.35
+SE,2016,Gas and Other Fossil,%,2.18
+SE,2016,"Hydro, Bioenergy and Other Renewables",%,47.15
+SE,2016,Renewables,%,57.17
+SE,2016,Wind and Solar,%,10.02
+SE,2016,CO2 intensity,gCO2/kWh,42.98
+SE,2017,Clean,%,97.88
+SE,2017,Fossil,%,2.11
+SE,2017,Gas and Other Fossil,%,1.92
+SE,2017,"Hydro, Bioenergy and Other Renewables",%,47.02
+SE,2017,Renewables,%,57.88
+SE,2017,Wind and Solar,%,10.86
+SE,2017,CO2 intensity,gCO2/kWh,42.5
+SE,2018,Clean,%,97.75
+SE,2018,Fossil,%,2.24
+SE,2018,Gas and Other Fossil,%,2.03
+SE,2018,"Hydro, Bioenergy and Other Renewables",%,45.37
+SE,2018,Renewables,%,55.79
+SE,2018,Wind and Solar,%,10.42
+SE,2018,CO2 intensity,gCO2/kWh,42.73
+SE,2019,Clean,%,98.0
+SE,2019,Fossil,%,1.98
+SE,2019,Gas and Other Fossil,%,1.86
+SE,2019,"Hydro, Bioenergy and Other Renewables",%,46.55
+SE,2019,Renewables,%,58.74
+SE,2019,Wind and Solar,%,12.19
+SE,2019,CO2 intensity,gCO2/kWh,42.34
+SE,2020,Clean,%,98.51
+SE,2020,Fossil,%,1.49
+SE,2020,Gas and Other Fossil,%,1.49
+SE,2020,"Hydro, Bioenergy and Other Renewables",%,51.03
+SE,2020,Renewables,%,68.47
+SE,2020,Wind and Solar,%,17.44
+SE,2020,CO2 intensity,gCO2/kWh,38.71
+SE,2021,Clean,%,98.21
+SE,2021,Fossil,%,1.78
+SE,2021,Gas and Other Fossil,%,1.78
+SE,2021,"Hydro, Bioenergy and Other Renewables",%,50.62
+SE,2021,Renewables,%,67.37
+SE,2021,Wind and Solar,%,16.75
+SE,2021,CO2 intensity,gCO2/kWh,41.74
+SE,2022,Clean,%,98.33
+SE,2022,Fossil,%,1.67
+SE,2022,Gas and Other Fossil,%,1.67
+SE,2022,"Hydro, Bioenergy and Other Renewables",%,47.97
+SE,2022,Renewables,%,68.32
+SE,2022,Wind and Solar,%,20.35
+SE,2022,CO2 intensity,gCO2/kWh,41.03
+SE,2023,Clean,%,98.6
+SE,2023,Fossil,%,1.41
+SE,2023,Gas and Other Fossil,%,1.41
+SE,2023,"Hydro, Bioenergy and Other Renewables",%,46.91
+SE,2023,Renewables,%,69.41
+SE,2023,Wind and Solar,%,22.5
+SE,2023,CO2 intensity,gCO2/kWh,38.42
+SE,2024,Clean,%,98.79
+SE,2024,Fossil,%,1.2
+SE,2024,Gas and Other Fossil,%,1.2
+SE,2024,"Hydro, Bioenergy and Other Renewables",%,43.44
+SE,2024,Renewables,%,69.36
+SE,2024,Wind and Solar,%,25.92
+SE,2024,CO2 intensity,gCO2/kWh,34.91
+SE,2025,Clean,%,98.78
+SE,2025,Fossil,%,1.22
+SE,2025,Gas and Other Fossil,%,1.22
+SE,2025,"Hydro, Bioenergy and Other Renewables",%,45.93
+SE,2025,Renewables,%,71.37
+SE,2025,Wind and Solar,%,25.44
+SE,2025,CO2 intensity,gCO2/kWh,35.35

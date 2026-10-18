@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Great Switch</title>
+  <meta name="description" content="Europe's car industry and the shift to electric, 2013–2026: market, production, jobs, the trade reversal with China, and a country-by-country comparison of petrol and electric cars on running cost and lifecycle CO2. Eurostat, Comext, EU Oil Bulletin, Ember.">
+  <meta property="og:title" content="The Great Switch: Europe's car industry and the electric transition">
+  <meta property="og:description" content="Interactive data report: petrol vs electric cars in all 27 EU countries, and an industry under pressure.">
+  <meta property="og:image" content="assets/preview.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232a78d6'/%3E%3Cpath d='M17 5l-7 12h6l-1 10 7-12h-6z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <div class="brand">The Great Switch <span>· data report</span></div>
+      <nav class="nav" aria-label="Sections">
+        <a href="#summary">Summary</a>
+        <a href="#market">Market</a>
+        <a href="#industry">Industry</a>
+        <a href="#china">China</a>
+        <a href="#cost">Cost</a>
+        <a href="#climate">Climate</a>
+        <a href="#explore">Explore</a>
+        <a href="#method">Method</a>
+      </nav>
+      <button class="icon-btn" id="theme" type="button" aria-label="Toggle light/dark theme">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- ================= HERO ================= -->
+    <section class="hero wrap" id="summary">
+      <div class="eyebrow">Data analysis · 27 EU member states · 2013–2026</div>
+      <h1>The Great Switch: Europe’s car industry and the electric transition</h1>
+      <p class="lede">
+        Europe invented the car industry, and the industry still employs 2.4 million people in EU factories. Now the product is
+        changing from combustion to battery, and the competition is changing from Europe to China. This report follows the market,
+        the factories and the trade flows, then compares petrol and electric cars on what matters to a driver: cost per kilometre,
+        and CO₂ over the whole life of the car.
+      </p>
+      <div class="byline">
+        <span>Analysis: <b>Ionut Daniel Pop</b> · <a href="https://github.com/Ionutpop90">@Ionutpop90</a></span>
+        <span>Data: <b>Eurostat · Comext · EU Oil Bulletin · Ember</b></span>
+        <span>Stack: <b>Python · DuckDB SQL · Monte Carlo · SVG/JS</b></span>
+      </div>
+
+      <div class="kpis">
+        <article class="kpi hero-kpi">
+          <div>
+            <div class="label">Battery-electric share of new cars, EU-27, <span data-k="lastYear"></span></div>
+            <div class="value" data-k="bevShare">–</div>
+          </div>
+          <div>
+            <span class="badge badge-neutral">from <span data-k="bevShare0"></span> in 2015 · <span data-k="dkShare"></span> in Denmark</span>
+            <svg class="spark" id="spark" aria-hidden="true"></svg>
+            <div class="sub">BEV share of new registrations, 2013–<span data-k="lastYear2"></span></div>
+          </div>
+        </article>
+        <article class="kpi">
+          <div class="label">EU car production vs 2017 peak</div>
+          <div class="value" data-k="prodChange">–</div>
+          <div class="sub">volume index, <span data-k="prodYear"></span></div>
+        </article>
+        <article class="kpi">
+          <div class="label">EU car trade balance with China</div>
+          <div class="value" data-k="chinaBal">–</div>
+          <div class="sub">€ billion in <span data-k="chinaYear"></span>, was <span data-k="chinaBal0"></span> in 2017</div>
+        </article>
+        <article class="kpi">
+          <div class="label">Cost per 100 km, EU average</div>
+          <div class="value"><span data-k="bevCost"></span> <small class="kpi-unit">vs <span data-k="petrolCost"></span></small></div>
+          <div class="sub">electric (home charging) vs petrol, <span data-k="fuelDate"></span></div>
+        </article>
+        <article class="kpi">
+          <div class="label">Lifecycle CO₂ of an electric car</div>
+          <div class="value" data-k="lcSaving">–</div>
+          <div class="sub">vs petrol, EU grid; lower in all 27 countries</div>
+        </article>
+      </div>
+
+      <ol class="findings">
+        <li><strong>The switch is real, but uneven.</strong> Electric cars went from <span data-k="bevShare0b"></span> to <span data-k="bevShareb"></span>
+          of EU sales in ten years. The countries that <em>build</em> the most cars, relative to their economy, buy the fewest:
+          Slovakia, Romania and Czechia all sell under 6% electric.</li>
+        <li><strong>The industry is shrinking, and China flipped the trade.</strong> EU production is <span data-k="prodChangeb"></span> below its 2017 level.
+          Car exports to China fell from €<span data-k="exp22"></span>bn (2022) to €<span data-k="expLast"></span>bn. With imports at €<span data-k="impLast"></span>bn,
+          the EU now runs a car trade <em>deficit</em> with China for the first time.</li>
+        <li><strong>For drivers and the climate, electric wins everywhere in the EU.</strong> Charged at home, an EV is cheaper per km than petrol in all 27
+          countries (EU: €<span data-k="saving"></span> a year at 15,000 km). It also emits less CO₂ over its life in all 27 countries, coal-heavy Poland included,
+          in ≥99.9% of 10,000 simulations.</li>
+      </ol>
+    </section>
+
+    <!-- ================= 1. MARKET ================= -->
+    <section class="chapter wrap" id="market">
+      <div class="chapter-head">
+        <div class="chapter-num">01 · The market</div>
+        <div>
+          <h2>Diesel collapsed, hybrids took over, and electric reached one car in six</h2>
+          <p class="intro">Europe’s new-car market is still <span data-k="mkt2019"></span> smaller than in 2019. Within it, the mix changed fast: diesel’s share halved in four years,
+            and full hybrids became the most common new powertrain. Battery-electric cars kept growing after a pause in 2024, when
+            Germany ended its purchase subsidy.</p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>New cars by powertrain, EU-27</h3>
+          <p class="desc">% of new registrations. The detailed EU split by powertrain is published from 2022.</p>
+          <ul class="legend" id="legendMix"></ul>
+          <div id="chartMix"></div>
+          <div class="card-foot">
+            <span>Source: Eurostat road_eqr_carpda</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Battery-electric share of new cars</h3>
+          <p class="desc">EU-27 and selected countries, 2013–<span data-k="lastYear3"></span>.</p>
+          <ul class="legend" id="legendBev"></ul>
+          <div id="chartBev"></div>
+          <div class="card-foot">
+            <span>Source: Eurostat road_eqr_carpda</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+      </div>
+      <div class="callout"><strong>The fleet changes slowly:</strong> even after a decade of growth, only <span data-k="fleetShare"></span> of the
+        <span data-k="fleetSize"></span> million cars on EU roads are battery-electric. New sales take 15–20 years to work through the whole fleet.</div>
+    </section>
+
+    <!-- ================= 2. INDUSTRY ================= -->
+    <section class="chapter wrap" id="industry">
+      <div class="chapter-head">
+        <div class="chapter-num">02 · The industry</div>
+        <div>
+          <h2>Fewer cars built, and whole regional economies exposed</h2>
+          <p class="intro">Car output peaked in 2017 and never recovered from the pandemic and the chip shortage. Italy’s production has almost halved
+            since 2017. Exposure is highest in Central Europe: in Slovakia and Romania, one in seven manufacturing jobs is in the car industry.</p>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Motor vehicle production, volume index (2017 = 100)</h3>
+        <p class="desc">Calendar-adjusted. Only countries whose index is published are shown.</p>
+        <ul class="legend" id="legendProd"></ul>
+        <div id="chartProd"></div>
+        <div class="card-foot">
+          <span>Source: Eurostat sts_inpr_a (NACE C29.1), rebased from 2021 = 100</span>
+          <details class="data"><summary>View data</summary></details>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Car industry’s share of manufacturing jobs, 2024</h3>
+          <p class="desc">Persons employed in NACE C29 as % of all manufacturing employment. The line marks the EU-27.</p>
+          <div id="chartJobs"></div>
+          <div class="card-foot">
+            <span>Source: Eurostat sbs_ovw_act</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Builders vs buyers</h3>
+          <p class="desc">Car industry’s share of manufacturing jobs vs electric share of new cars, by country.</p>
+          <div id="chartBuilders"></div>
+          <div class="card-foot">
+            <span>Pearson r = <span data-k="rBuild"></span> (n = 27) · correlation, not causation</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 3. CHINA ================= -->
+    <section class="chapter wrap" id="china">
+      <div class="chapter-head">
+        <div class="chapter-num">03 · The China reversal</div>
+        <div>
+          <h2>From a €22 billion surplus to a deficit in eight years</h2>
+          <p class="intro">In 2017 Europe sold China €22bn of cars and bought almost none. By <span data-k="chinaYear2"></span> the flows had crossed.
+            The EU’s anti-subsidy duties on Chinese battery-electric cars, definitive since October 2024, cut BEV imports. Imports of
+            plug-in and full hybrids, which the duties do not cover, rose at the same time.</p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>EU car trade with China, € billion</h3>
+          <p class="desc">Passenger cars (HS 8703), all powertrains.</p>
+          <ul class="legend" id="legendChina"></ul>
+          <div id="chartChina"></div>
+          <div class="card-foot">
+            <span>Source: Eurostat Comext DS-045409</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>What the EU imports from China, € billion</h3>
+          <p class="desc">By powertrain (HS 2022 sub-headings of 8703).</p>
+          <ul class="legend" id="legendChinaMix"></ul>
+          <div id="chartChinaMix"></div>
+          <div class="card-foot">
+            <span>Source: Eurostat Comext DS-045409</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 4. COST ================= -->
+    <section class="chapter wrap" id="cost">
+      <div class="chapter-head">
+        <div class="chapter-num">04 · Petrol vs electric: cost</div>
+        <div>
+          <h2>Charged at home, electric is cheaper to run in every EU country</h2>
+          <p class="intro">Running cost per 100 km uses this week’s pump prices from the EU Oil Bulletin and household electricity prices from Eurostat,
+            for a compact car (petrol 6.5 L/100 km, electric 18 kWh/100 km including charging losses). The picture changes for drivers who rely on
+            public fast chargers: at a typical €0.60/kWh the EV costs about €10.80 per 100 km, close to petrol in the cheapest-fuel countries.</p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Energy cost per 100 km, by country</h3>
+          <p class="desc">Petrol vs electric charged at home. The vertical line is the electric cost at a €0.60/kWh public charger.</p>
+          <ul class="legend" id="legendCost"></ul>
+          <div id="chartCost"></div>
+          <div class="card-foot">
+            <span>Sources: EU Weekly Oil Bulletin (<span data-k="fuelDate2"></span>), Eurostat nrg_pc_204 (<span data-k="elecPeriod"></span>, band DC, all taxes)</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>EU average cost per 100 km over time</h3>
+          <p class="desc">Annual averages, € per 100 km.</p>
+          <ul class="legend" id="legendCostTrend"></ul>
+          <div id="chartCostTrend"></div>
+          <div class="card-foot">
+            <span>Same sources, EU-27 averages</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+          <div class="callout" style="margin:16px 0 0">
+            <strong>A gap that held through the energy crisis:</strong> even in 2022, when electricity prices spiked, home charging cost less than
+            half as much per km as petrol.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 5. CLIMATE ================= -->
+    <section class="chapter wrap" id="climate">
+      <div class="chapter-head">
+        <div class="chapter-num">05 · Petrol vs electric: climate</div>
+        <div>
+          <h2>The battery’s carbon debt is repaid within 26,000–65,000 km</h2>
+          <p class="intro">Building an electric car emits more CO₂ than building a petrol car, mainly because of the battery. Driving it emits far less,
+            depending on how the country makes its electricity. Over a 200,000 km life, the electric car comes out ahead in every EU country.
+            The advantage ranges from about 70% in Sweden and France, where power is nuclear and hydro, to about 20% in Poland, where it is coal.</p>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Lifecycle CO₂ per km, EU-27 grid</h3>
+        <p class="desc">Grams CO₂-equivalent per km over 200,000 km: manufacturing, battery and energy use (well-to-wheel).</p>
+        <ul class="legend" id="legendLife"></ul>
+        <div id="chartLife"></div>
+        <div class="card-foot">
+          <span>Own model · grid intensity: Ember (<span data-k="gridYear"></span>) · assumptions in the methodology</span>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>CO₂ saving of electric vs petrol, by country</h3>
+          <p class="desc">Median of 10,000 Monte Carlo draws; whiskers show the 90% interval.</p>
+          <div id="chartSaving"></div>
+          <div class="card-foot">
+            <span>Bars sorted by grid carbon intensity (cleanest first)</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>What drives the result?</h3>
+          <p class="desc">Change in the electric car’s advantage (g CO₂/km, EU grid) when one assumption moves to the low or high end of its range.</p>
+          <ul class="legend" id="legendTornado"></ul>
+          <div id="chartTornado"></div>
+          <div class="card-foot"><span>One-at-a-time sensitivity · central advantage = <span data-k="gapEU"></span> g/km</span></div>
+          <div class="callout" style="margin:16px 0 0">
+            <strong>Reading:</strong> the result is most sensitive to how much fuel the petrol car really burns. No single assumption, even at the
+            unfavourable end of its range, flips the conclusion.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 6. EXPLORE ================= -->
+    <section class="chapter wrap" id="explore">
+      <div class="chapter-head">
+        <div class="chapter-num">06 · Explore the map</div>
+        <div>
+          <h2>Every country, on every measure</h2>
+          <p class="intro">Choose an indicator to redraw the map and ranking. Colours split countries into five equal-sized groups (quintiles).</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="chips" id="metricChips" role="radiogroup" aria-label="Indicator shown on the map"></div>
+        <div class="map-layout">
+          <div>
+            <h3 id="mapTitle"></h3>
+            <p class="desc" id="mapDesc"></p>
+            <div id="chartMap"></div>
+            <div class="map-legend" id="mapLegend" aria-hidden="true"></div>
+          </div>
+          <div>
+            <h3>Ranking</h3>
+            <p class="desc">Highest first.</p>
+            <div id="chartMapRank"></div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <span>Boundaries © EuroGeographics / GISCO · Lambert equal-area projection</span>
+          <details class="data"><summary>View data</summary></details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 7. METHOD ================= -->
+    <section class="chapter wrap" id="method">
+      <div class="chapter-head">
+        <div class="chapter-num">07 · Methodology</div>
+        <div>
+          <h2>How this analysis was built</h2>
+          <p class="intro">Four sources (eleven datasets), one DuckDB model, and an explicit assumptions table that drives both the cost and the CO₂ comparison.</p>
+        </div>
+      </div>
+      <div class="pipeline" aria-label="Data pipeline">
+        <div class="step"><b>Extract</b><span>Eurostat · Comext · Oil Bulletin · Ember</span></div><span class="arrow">→</span>
+        <div class="step"><b>Model</b><span>DuckDB SQL · assumptions table</span></div><span class="arrow">→</span>
+        <div class="step"><b>Simulate</b><span>10,000-draw Monte Carlo · tornado</span></div><span class="arrow">→</span>
+        <div class="step"><b>Publish</b><span>SVG/JS report · GISCO map</span></div>
+      </div>
+      <div class="card">
+        <h3>Model assumptions</h3>
+        <p class="desc">Central value and the range used in the Monte Carlo (triangular distributions). Grid intensity gets an extra ±10%.</p>
+        <div id="assumptions"></div>
+      </div>
+      <div class="card method">
+        <div>
+          <h3>Sources</h3>
+          <ul>
+            <li><strong>Eurostat:</strong> new registrations &amp; fleet by motor energy (<code>road_eqr_carpda</code>, <code>road_eqs_carpda</code>),
+              production index (<code>sts_inpr_a</code>, C29.1), jobs (<code>sbs_ovw_act</code>, C29), household electricity (<code>nrg_pc_204</code>)</li>
+            <li><strong>Comext</strong> (<code>DS-045409</code>): EU trade in HS 8703 by powertrain sub-heading, with China and extra-EU</li>
+            <li><strong>EU Weekly Oil Bulletin:</strong> pump prices incl. taxes, Euro-super 95 and diesel</li>
+            <li><strong>Ember:</strong> CO₂ intensity of electricity generation by country</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Limitations</h3>
+          <ul>
+            <li>Ember intensity covers direct generation emissions, not the full lifecycle of power plants. That slightly flatters electric cars,
+              but this is outweighed by the conservative choice of today’s grid for the whole car life, since grids are decarbonising.</li>
+            <li>Running cost covers energy only. Purchase price, insurance, maintenance and resale value are not in official statistics and are excluded.</li>
+            <li>Public charging tariffs vary widely. €0.60/kWh is a stated scenario, not a measured average.</li>
+            <li>The production index is published for only six member states plus the EU aggregate (confidentiality).</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>Data: Eurostat (© European Union), EU Weekly Oil Bulletin, Ember (CC-BY-4.0). Boundaries © EuroGeographics.</span>
+      <span>Built by Ionut Daniel Pop · <a href="https://github.com/Ionutpop90/europe-car-transition">Source code</a></span>
+    </div>
+  </footer>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>
