@@ -95,4 +95,4 @@ python -m http.server -d report  # open http://localhost:8000
 
 ---
 
-*Author: **Ionut Daniel Pop** · GitHub [@Ionutpop90](https://github.com/Ionutpop90) · Other projects: [Europe health check](https://github.com/Ionutpop90/europe-health-check) · [Europe housing affordability](https://github.com/Ionutpop90/europe-housing-affordability) · [Romania vs EU inflation](https://github.com/Ionutpop90/romania-inflation-analysis)*
+*Author: **Ionut Daniel Pop** · GitHub [@Ionutpop90](https://github.com/Ionutpop90) · Other projects: [Romania by the numbers](https://github.com/Ionutpop90/romania-by-the-numbers) · [Europe health check](https://github.com/Ionutpop90/europe-health-check) · [Europe housing affordability](https://github.com/Ionutpop90/europe-housing-affordability) · [Romania vs EU inflation](https://github.com/Ionutpop90/romania-inflation-analysis)*
